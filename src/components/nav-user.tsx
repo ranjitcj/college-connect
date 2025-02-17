@@ -51,11 +51,11 @@ export const NavUser = () => {
                     <Avatar className="h-8 w-8 rounded-lg">
                       <AvatarImage
                         src={
-                          user.username?.substring(0, 1).toUpperCase() ?? "U"
+                          user.username?.substring(0, 2).toUpperCase() ?? "U"
                         }
                       />
                       <AvatarFallback className="rounded-lg">
-                        {user.username?.substring(0, 1).toUpperCase() ?? "U"}
+                        {user.username?.substring(0, 2).toUpperCase() ?? "U"}
                       </AvatarFallback>
                     </Avatar>
                     <div className="grid flex-1 text-left text-sm leading-tight">
@@ -78,11 +78,11 @@ export const NavUser = () => {
                       <Avatar className="h-8 w-8 rounded-lg">
                         <AvatarImage
                           src={
-                            user.username?.substring(0, 1).toUpperCase() ?? "U"
+                            user.username?.substring(0, 2).toUpperCase() ?? "U"
                           }
                         />
                         <AvatarFallback className="rounded-lg">
-                          {user.username?.substring(0, 1).toUpperCase() ?? "U"}
+                          {user.username?.substring(0, 2).toUpperCase() ?? "U"}
                         </AvatarFallback>
                       </Avatar>
                       <div className="grid flex-1 text-left text-sm leading-tight">
@@ -127,12 +127,9 @@ export const NavUser = () => {
         </>
       ) : (
         <Link href="/sign-up">
-          <Button
-            className="w-full md:w-auto bg-slate-100 text-black"
-            variant={"outline"}
-          >
+          <SidebarMenuButton className="bg-white text-black">
             Sign-Up
-          </Button>
+          </SidebarMenuButton>
         </Link>
       )}
     </>

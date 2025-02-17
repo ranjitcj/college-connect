@@ -4,10 +4,15 @@ import * as React from "react";
 import {
   BookOpen,
   Bot,
+  Cable,
+  Clapperboard,
   Command,
   Frame,
+  Landmark,
+  Library,
   LifeBuoy,
   Map,
+  MessagesSquare,
   PieChart,
   Send,
   Settings2,
@@ -34,7 +39,7 @@ const data = {
     {
       title: "Academy",
       url: "#",
-      icon: SquareTerminal,
+      icon: Landmark,
       // isActive: true,
       items: [
         {
@@ -50,7 +55,7 @@ const data = {
     {
       title: "Events",
       url: "#",
-      icon: Bot,
+      icon: Clapperboard,
       items: [
         {
           title: "Ongoing",
@@ -69,7 +74,7 @@ const data = {
     {
       title: "Library",
       url: "#",
-      icon: BookOpen,
+      icon: Library,
       items: [
         {
           title: "Books",
@@ -92,7 +97,7 @@ const data = {
     {
       title: "Clubs",
       url: "#",
-      icon: Settings2,
+      icon: MessagesSquare,
       items: [
         {
           title: "Cricket Club",

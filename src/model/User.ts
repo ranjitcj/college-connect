@@ -38,7 +38,7 @@ const UserSchema: Schema<User> = new Schema({
   },
   role: {
     type: String,
-    default: "student",
+    default: "app-user",
   },
   email: {
     type: String,
