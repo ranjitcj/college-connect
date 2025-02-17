@@ -1,7 +1,6 @@
 import { AppSidebar } from "@/components/app-sidebar";
 import { SiteHeader } from "@/components/site-header";
 import { SidebarProvider, SidebarInset } from "@/components/ui/sidebar";
-
 export default function Page() {
   return (
     <div className="[--header-height:calc(theme(spacing.14))]">
