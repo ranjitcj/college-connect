@@ -39,20 +39,20 @@ export async function POST(request: Request) {
           }
         );
       } else {
-        const hasedPassword = await bcrypt.hash(password, 10); // Hash password
-        existingUserByEmail.password = hasedPassword;
+        const hashedPassword = await bcrypt.hash(password, 10); // Hash password
+        existingUserByEmail.password = hashedPassword;
         existingUserByEmail.verifyCode = verifyCode;
         existingUserByEmail.verifyCodeExpiry = new Date(Date.now() + 3600000); // Set expiry date to 1 hour from now
         await existingUserByEmail.save();
       }
     } else {
-      const hasedPassword = await bcrypt.hash(password, 10); // Hash password
+      const hashedPassword = await bcrypt.hash(password, 10); // Hash password
       const expiryDate = new Date();
       expiryDate.setHours(expiryDate.getHours() + 1); // Set expiry date to 1 hour from now
       const newUser = new UserModel({
         username,
         email,
-        password: hasedPassword,
+        password: hashedPassword,
         verifyCode,
         verifyCodeExpiry: expiryDate,
         isVerified: false,

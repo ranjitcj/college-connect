@@ -36,6 +36,7 @@ export const NavUser = () => {
   const { data: session } = useSession();
   const user: User = session?.user as User;
   const { isMobile } = useSidebar();
+
   return (
     <>
       {session ? (
@@ -104,7 +105,9 @@ export const NavUser = () => {
                   <DropdownMenuGroup>
                     <DropdownMenuItem>
                       <BadgeCheck />
-                      Account
+                      <Link href="/verify-student/`user.username`">
+                        Account
+                      </Link>
                     </DropdownMenuItem>
                     <DropdownMenuItem>
                       <CreditCard />

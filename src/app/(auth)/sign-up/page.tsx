@@ -171,6 +171,7 @@ export default function SignUpForm() {
                 </FormItem>
               )}
             />
+
             <Button type="submit" className="w-full" disabled={isSubmitting}>
               {isSubmitting ? (
                 <>
