@@ -8,7 +8,6 @@ import {
   LogOut,
   Sparkles,
 } from "lucide-react";
-
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 import {
   DropdownMenu,
@@ -29,7 +28,6 @@ import {
 import React from "react";
 import { signOut, useSession } from "next-auth/react";
 import { User } from "next-auth";
-import { Button } from "./ui/button";
 import Link from "next/link";
 
 export const NavUser = () => {
@@ -105,9 +103,7 @@ export const NavUser = () => {
                   <DropdownMenuGroup>
                     <DropdownMenuItem>
                       <BadgeCheck />
-                      <Link href="/verify-student/`user.username`">
-                        Account
-                      </Link>
+                      <Link href="/verify-student">Account</Link>
                     </DropdownMenuItem>
                     <DropdownMenuItem>
                       <CreditCard />
