@@ -25,6 +25,7 @@
     "bcryptjs": "^3.0.0",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
+    "input-otp": "^1.4.2",
     "lucide-react": "^0.475.0",
     "mongoose": "^8.10.1",
     "next": "15.1.7",

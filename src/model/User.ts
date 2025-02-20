@@ -38,6 +38,7 @@ const UserSchema: Schema<User> = new Schema({
   },
   role: {
     type: String,
+    enum: ["student", "app-user", "admin", "teacher"],
     default: "app-user",
   },
   email: {
