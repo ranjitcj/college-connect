@@ -1,4 +1,4 @@
-import { sendVerificationEmail } from "@/helpers/sendVerificationEmail";
+import { sendVerificationEmail } from "@/mailtrap/emails";
 import dbConnect from "@/lib/dbConnect";
 import UserModel from "@/model/User";
 import bcrypt from "bcryptjs";
@@ -62,23 +62,8 @@ export async function POST(request: Request) {
       await newUser.save();
     }
 
-    const emailResponse = await sendVerificationEmail(
-      email,
-      username,
-      verifyCode
-    );
+    await sendVerificationEmail(email, verifyCode);
 
-    if (!emailResponse.success) {
-      return Response.json(
-        {
-          success: false,
-          message: "Error sending verification email",
-        },
-        {
-          status: 500,
-        }
-      );
-    }
     return Response.json(
       {
         success: true,

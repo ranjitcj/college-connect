@@ -61,6 +61,7 @@ export const NavUser = () => {
                       <span className="truncate font-semibold">
                         {user.username}
                       </span>
+
                       <span className="truncate text-xs">{user.email}</span>
                     </div>
                     <ChevronsUpDown className="ml-auto size-4" />
@@ -96,7 +97,7 @@ export const NavUser = () => {
                   <DropdownMenuGroup>
                     <DropdownMenuItem>
                       <Sparkles />
-                      Upgrade to Pro
+                      {user.role}
                     </DropdownMenuItem>
                   </DropdownMenuGroup>
                   <DropdownMenuSeparator />
