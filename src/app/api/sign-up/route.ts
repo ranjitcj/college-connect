@@ -62,7 +62,7 @@ export async function POST(request: Request) {
       await newUser.save();
     }
 
-    await sendVerificationEmail(email, verifyCode);
+    // await sendVerificationEmail(email, verifyCode);
 
     return Response.json(
       {
@@ -74,7 +74,6 @@ export async function POST(request: Request) {
       }
     );
   } catch (error) {
-    console.log("Error registering user", error);
     return Response.json(
       {
         success: false,
