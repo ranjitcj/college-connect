@@ -22,21 +22,6 @@ export default function AddPost() {
   const [image, setImage] = useState("");
   const [isSubmitting, setIsSubmitting] = useState(false);
 
-  // const handleImageChange = (e: { target: { files: any[] } }) => {
-  //   const file = e.target.files[0];
-  //   if (file) {
-  //     // Here you would typically upload to a service like Cloudinary
-  //     // For now, we'll simulate by creating a local URL
-  //     const reader = new FileReader();
-  //     reader.onload = () => {
-  //       if (reader.result) {
-  //         setImage(reader.result.toString());
-  //       }
-  //     };
-  //     reader.readAsDataURL(file);
-  //   }
-  // };
-
   const handleImageChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     const file = e.target.files?.[0];
     if (file) {
@@ -49,6 +34,7 @@ export default function AddPost() {
       reader.readAsDataURL(file);
     }
   };
+
   const handleSubmit = async (e: { preventDefault: () => void }) => {
     e.preventDefault();
     if (!session?.user?._id) {
@@ -100,70 +86,72 @@ export default function AddPost() {
         <div className="flex flex-1">
           <AppSidebar />
           <SidebarInset>
-            <div className="container max-w-4xl py-6">
-              <Card>
-                <CardHeader>
-                  <CardTitle>Create New Post</CardTitle>
-                </CardHeader>
-                <form onSubmit={handleSubmit}>
-                  <CardContent className="space-y-4">
-                    <div className="space-y-2">
-                      <Label htmlFor="content">What's on your mind?</Label>
-                      <Textarea
-                        id="content"
-                        placeholder="Share your thoughts..."
-                        className="min-h-32"
-                        value={content}
-                        onChange={(e) => setContent(e.target.value)}
-                      />
-                    </div>
-
-                    <div className="space-y-2">
-                      <Label htmlFor="image">Add an image</Label>
-                      <div className="flex items-center gap-2">
-                        <label
-                          htmlFor="image-upload"
-                          className="flex h-10 items-center rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background cursor-pointer hover:bg-accent hover:text-accent-foreground"
-                        >
-                          <Upload className="mr-2 h-4 w-4" />
-                          Upload
-                        </label>
-                        <input
-                          id="image-upload"
-                          type="file"
-                          accept="image/*"
-                          className="hidden"
-                          onChange={handleImageChange}
+            <div className="flex items-center justify-center w-full h-full py-8">
+              <div className="container max-w-2xl mx-auto">
+                <Card className="shadow-lg">
+                  <CardHeader>
+                    <CardTitle>Create New Post</CardTitle>
+                  </CardHeader>
+                  <form onSubmit={handleSubmit}>
+                    <CardContent className="space-y-4">
+                      <div className="space-y-2">
+                        <Label htmlFor="content">What's on your mind?</Label>
+                        <Textarea
+                          id="content"
+                          placeholder="Share your thoughts..."
+                          className="min-h-32"
+                          value={content}
+                          onChange={(e) => setContent(e.target.value)}
                         />
-                        {image && (
-                          <span className="text-sm text-muted-foreground">
-                            Image selected
-                          </span>
-                        )}
                       </div>
 
-                      {image && (
-                        <div className="mt-2 relative aspect-video w-full max-w-md overflow-hidden rounded-lg border">
-                          <img
-                            src={image}
-                            alt="Preview"
-                            className="h-full w-full object-cover"
+                      <div className="space-y-2">
+                        <Label htmlFor="image">Add an image</Label>
+                        <div className="flex items-center gap-2">
+                          <label
+                            htmlFor="image-upload"
+                            className="flex h-10 items-center rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background cursor-pointer hover:bg-accent hover:text-accent-foreground"
+                          >
+                            <Upload className="mr-2 h-4 w-4" />
+                            Upload
+                          </label>
+                          <input
+                            id="image-upload"
+                            type="file"
+                            accept="image/*"
+                            className="hidden"
+                            onChange={handleImageChange}
                           />
+                          {image && (
+                            <span className="text-sm text-muted-foreground">
+                              Image selected
+                            </span>
+                          )}
                         </div>
-                      )}
-                    </div>
-                  </CardContent>
 
-                  <CardFooter className="flex justify-end">
-                    <Button
-                      type="submit"
-                      disabled={isSubmitting || (!content && !image)}
-                    >
-                      {isSubmitting ? "Posting..." : "Post"}
-                    </Button>
-                  </CardFooter>
-                </form>
-              </Card>
+                        {image && (
+                          <div className="mt-2 relative aspect-video w-full max-w-md overflow-hidden rounded-lg border">
+                            <img
+                              src={image}
+                              alt="Preview"
+                              className="h-full w-full object-cover"
+                            />
+                          </div>
+                        )}
+                      </div>
+                    </CardContent>
+
+                    <CardFooter className="flex justify-end">
+                      <Button
+                        type="submit"
+                        disabled={isSubmitting || (!content && !image)}
+                      >
+                        {isSubmitting ? "Posting..." : "Post"}
+                      </Button>
+                    </CardFooter>
+                  </form>
+                </Card>
+              </div>
             </div>
           </SidebarInset>
         </div>

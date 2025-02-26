@@ -11,6 +11,7 @@ import {
   Landmark,
   Library,
   LifeBuoy,
+  Link,
   Map,
   MessagesSquare,
   PieChart,
@@ -44,11 +45,11 @@ const data = {
       items: [
         {
           title: "Attendance",
-          url: "dashboard/academy/attendance",
+          url: "/dashboard/academy/attendance",
         },
         {
           title: "Class Attendance",
-          url: "#",
+          url: "/dashboard/academy/classattendance",
         },
       ],
     },
@@ -101,15 +102,15 @@ const data = {
       items: [
         {
           title: "Cricket Club",
-          url: "#",
+          url: "/dashboard/clubs/cricket",
         },
         {
           title: "Chess Club",
-          url: "#",
+          url: "/dashboard/clubs/chess",
         },
         {
           title: "Coding Club",
-          url: "#",
+          url: "/dashborad/clubs/coding",
         },
         {
           title: "Drown Club",
