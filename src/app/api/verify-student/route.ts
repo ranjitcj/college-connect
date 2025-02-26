@@ -58,13 +58,30 @@ export async function POST(request: Request) {
     }
 
     // Update user role
+    // await UserModel.findByIdAndUpdate(
+    //   existingUser._id,
+    //   {
+    //     role: "student",
+    //   },
+    //   { new: true }
+    // );
+    // await UserModel.findByIdAndUpdate(
+    //   existingUser._id,
+    //   {
+    //     rollno: rollno,
+    //   },
+    //   { new: true }
+    // );
     await UserModel.findByIdAndUpdate(
       existingUser._id,
       {
         role: "student",
+        rollno: rollno
       },
       { new: true }
     );
+
+
 
     return NextResponse.json(
       { success: true, message: "Account verified successfully" },

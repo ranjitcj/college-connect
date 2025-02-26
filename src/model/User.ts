@@ -6,6 +6,7 @@ export interface User extends Document {
   role: "student" | "app-user" | "admin" | "teacher";
   email: string;
   password: string;
+  rollno: string;
   verifyCode: string;
   verifyCodeExpiry: Date;
   isVerified: boolean;
@@ -57,6 +58,10 @@ const UserSchema: Schema<User> = new Schema(
     password: {
       type: String,
       required: [true, "Password is required"],
+    },
+    rollno: {
+      type: String,
+      default: "",
     },
     verifyCode: {
       type: String,

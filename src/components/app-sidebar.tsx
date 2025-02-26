@@ -44,7 +44,7 @@ const data = {
       items: [
         {
           title: "Attendance",
-          url: "#",
+          url: "dashboard/academy/attendance",
         },
         {
           title: "Class Attendance",

@@ -1,0 +1,2818 @@
+{
+  "Table 1": [
+    {
+      "Seat No": "F190800001",
+      "Student Name": "INGAWALE DHIRAJ DATTATRAYA",
+      "Mother Name": "JAYASHREE",
+      "PRN": "72329699F"
+    },
+    {
+      "Seat No": "F190800002",
+      "Student Name": "KURKULE YASH SANJAY",
+      "Mother Name": "VAISHALI",
+      "PRN": "72329700C"
+    },
+    {
+      "Seat No": "F190800003",
+      "Student Name": "WANAVE ANIKET BABASAHEB",
+      "Mother Name": "SUNITA",
+      "PRN": "72329701M"
+    },
+    {
+      "Seat No": "F190800004",
+      "Student Name": "AARTI SUNIL TIKATE",
+      "Mother Name": "ALKA",
+      "PRN": "72329702K"
+    },
+    {
+      "Seat No": "F190800005",
+      "Student Name": "AARYA ANANT PASALKAR",
+      "Mother Name": "SUMAN ANANT PASALKAR",
+      "PRN": "72329703H"
+    },
+    {
+      "Seat No": "F190800006",
+      "Student Name": "AAYUSH CHANDEL",
+      "Mother Name": "SMITA SINGH",
+      "PRN": "72329704F"
+    },
+    {
+      "Seat No": "F190800007",
+      "Student Name": "ABHADE CHAITANYA TUSHAR",
+      "Mother Name": "ANITA",
+      "PRN": "72329705D"
+    },
+    {
+      "Seat No": "F190800008",
+      "Student Name": "ABUSUFIYAN AKHTARHUSEN BARGIR",
+      "Mother Name": "KHAIRUN",
+      "PRN": "72255595E"
+    },
+    {
+      "Seat No": "F190800009",
+      "Student Name": "ADHAV SAKSHI SHAM",
+      "Mother Name": "JYOTI",
+      "PRN": "72329706B"
+    },
+    {
+      "Seat No": "F190800010",
+      "Student Name": "ADITYA ARJUN SONAR",
+      "Mother Name": "REENA ARJUN SONAR",
+      "PRN": "72255596C"
+    },
+    {
+      "Seat No": "F190800011",
+      "Student Name": "ADITYA KAILAS HIRWANE",
+      "Mother Name": "DIPALI KAILAS HIRWANE",
+      "PRN": "72329707L"
+    },
+    {
+      "Seat No": "F190800012",
+      "Student Name": "AGHAM KALYANI GAJANAN",
+      "Mother Name": "PRITI AGHAM",
+      "PRN": "72329708J"
+    },
+    {
+      "Seat No": "F190800013",
+      "Student Name": "AGLAVE KRUTARTH NARSINGRAO",
+      "Mother Name": "JYOTI",
+      "PRN": "72255597M"
+    },
+    {
+      "Seat No": "F190800014",
+      "Student Name": "AHIRE SUDARSHAN BHASKAR",
+      "Mother Name": "GANGA",
+      "PRN": "72255598K"
+    },
+    {
+      "Seat No": "F190800015",
+      "Student Name": "AHIRE TEJASWINI NAVANATH",
+      "Mother Name": "SWATI",
+      "PRN": "72329709G"
+    },
+    {
+      "Seat No": "F190800016",
+      "Student Name": "AHIRRAO KRUSHNA AJAY",
+      "Mother Name": "MANDAKANI",
+      "PRN": "72329710L"
+    },
+    {
+      "Seat No": "F190800017",
+      "Student Name": "ALEKAR SHREEPAD RAJESH",
+      "Mother Name": "ALEKAR SHEETAL RAJESH",
+      "PRN": "72255599H"
+    },
+    {
+      "Seat No": "F190800018",
+      "Student Name": "AMRUTKAR TANUSHREE HEMANTKUMAR",
+      "Mother Name": "AMRUTKAR MANISHA HEMANTKUM AR",
+      "PRN": "72329711J"
+    },
+    {
+      "Seat No": "F190800019",
+      "Student Name": "ANAP KAUSTUBH NANDKISHOR",
+      "Mother Name": "KALPANA NANDKISHOR ANAP",
+      "PRN": "72329712G"
+    },
+    {
+      "Seat No": "F190800020",
+      "Student Name": "ANDHALE BHAGWAN AJINATH",
+      "Mother Name": "PRAMILA",
+      "PRN": "72255600E"
+    },
+    {
+      "Seat No": "F190800021",
+      "Student Name": "ANGRE SNEHA CHANDAKANT",
+      "Mother Name": "SUPRIYA",
+      "PRN": "72329713E"
+    },
+    {
+      "Seat No": "F190800022",
+      "Student Name": "ANUJA GORAKH SAVANT",
+      "Mother Name": "MIRA SAVANT",
+      "PRN": "72329714C"
+    },
+    {
+      "Seat No": "F190800023",
+      "Student Name": "ANUSHKA AVINASH GORE",
+      "Mother Name": "SUREKHA AVINASH GORE",
+      "PRN": "72329715M"
+    },
+    {
+      "Seat No": "F190800024",
+      "Student Name": "ARKERI SUDHAKAR LAXMAN",
+      "Mother Name": "SUNANDA",
+      "PRN": "72329716K"
+    },
+    {
+      "Seat No": "F190800025",
+      "Student Name": "ARMAAN ALI",
+      "Mother Name": "ANISA ALI",
+      "PRN": "72329717H"
+    },
+    {
+      "Seat No": "F190800026",
+      "Student Name": "ASHA TANAJI JAGTAP",
+      "Mother Name": "SUKANYA",
+      "PRN": "72329718F"
+    },
+    {
+      "Seat No": "F190800027",
+      "Student Name": "ASHISH NARAYAN PATIL",
+      "Mother Name": "SUVARNA",
+      "PRN": "72211437M"
+    },
+    {
+      "Seat No": "F190800028",
+      "Student Name": "ATAKARE MAYUR DATTATRAY",
+      "Mother Name": "SWATI",
+      "PRN": "72329719D"
+    },
+    {
+      "Seat No": "F190800029",
+      "Student Name": "ATHARVA RAJESH SADUL",
+      "Mother Name": "JYOTI SADUL",
+      "PRN": "72255601C"
+    },
+    {
+      "Seat No": "F190800030",
+      "Student Name": "BACHATE PURVA VINOD",
+      "Mother Name": "SWATI",
+      "PRN": "72329720H"
+    },
+    {
+      "Seat No": "F190800031",
+      "Student Name": "BAHAD NISHIGANDHA NARENDRA",
+      "Mother Name": "KAJAL",
+      "PRN": "72211446L"
+    },
+    {
+      "Seat No": "F190800032",
+      "Student Name": "BALWANT PRUTHVIRAJ SURAJ",
+      "Mother Name": "BALWANT POOJA SURAJ",
+      "PRN": "72329721F"
+    },
+    {
+      "Seat No": "F190800033",
+      "Student Name": "BAMANE SHUBHAM BHARAT",
+      "Mother Name": "USHA BHARAT BAMANE",
+      "PRN": "72329722D"
+    },
+    {
+      "Seat No": "F190800034",
+      "Student Name": "BAMBARSE YOGITA DATTATRAY",
+      "Mother Name": "SAVITA",
+      "PRN": "72329723B"
+    },
+    {
+      "Seat No": "F190800035",
+      "Student Name": "BAMBORDE SANAD SUNIL",
+      "Mother Name": "RUNALI",
+      "PRN": "72255607B"
+    },
+    {
+      "Seat No": "F190800036",
+      "Student Name": "BANDGAR ADITYA DEEPAK",
+      "Mother Name": "HARSHADA",
+      "PRN": "72329724L"
+    },
+    {
+      "Seat No": "F190800037",
+      "Student Name": "BANGAR VAISHNAVI ASHOK",
+      "Mother Name": "MANISHA",
+      "PRN": "72255608L"
+    },
+    {
+      "Seat No": "F190800038",
+      "Student Name": "BANSOD NEEL RAJESH",
+      "Mother Name": "VIDYA",
+      "PRN": "72329725J"
+    },
+    {
+      "Seat No": "F190800039",
+      "Student Name": "BANSODE TUSHAR SANJAY",
+      "Mother Name": "MANISHA",
+      "PRN": "72329726G"
+    },
+    {
+      "Seat No": "F190800040",
+      "Student Name": "BANSODE VAIBHAV MOHAN",
+      "Mother Name": "GODAVARI",
+      "PRN": "72255609J"
+    },
+    {
+      "Seat No": "F190800041",
+      "Student Name": "BARGE AMEY AJIT",
+      "Mother Name": "SARIKA",
+      "PRN": "72255612J"
+    },
+    {
+      "Seat No": "F190800042",
+      "Student Name": "BARHATE PRATIK VINOD",
+      "Mother Name": "LALITA",
+      "PRN": "72255613G"
+    },
+    {
+      "Seat No": "F190800043",
+      "Student Name": "BARHATE PREMANSHU DIPAK",
+      "Mother Name": "JYOTI",
+      "PRN": "72329727E"
+    },
+    {
+      "Seat No": "F190800044",
+      "Student Name": "BARKE SAURABH SANJAY",
+      "Mother Name": "ANURADHA SANJAY BARKE",
+      "PRN": "72329728C"
+    },
+    {
+      "Seat No": "F190800045",
+      "Student Name": "BARTAKKE AVISHKAR NITIN",
+      "Mother Name": "KAVITA",
+      "PRN": "72329729M"
+    },
+    {
+      "Seat No": "F190800046",
+      "Student Name": "BATHE SAMRUDDHI SATYAWAN",
+      "Mother Name": "BATHE MANISHA SATYAWAN",
+      "PRN": "72329730E"
+    },
+    {
+      "Seat No": "F190800047",
+      "Student Name": "BATULE GAYATRI ASHOK",
+      "Mother Name": "MIRA",
+      "PRN": "72255614E"
+    },
+    {
+      "Seat No": "F190800048",
+      "Student Name": "BEJAGAMWAR SUJAL DNYANESHWAR",
+      "Mother Name": "SUNITA BEJGAMWAR",
+      "PRN": "72329731C"
+    },
+    {
+      "Seat No": "F190800049",
+      "Student Name": "BEMBALE RUSHIKESH NILKANTH",
+      "Mother Name": "VAISHALI",
+      "PRN": "72255615C"
+    },
+    {
+      "Seat No": "F190800050",
+      "Student Name": "BHAKARE PRANAV GAJANAN",
+      "Mother Name": "SHUBHANGI",
+      "PRN": "72255616M"
+    },
+    {
+      "Seat No": "F190800051",
+      "Student Name": "BHAKARE PRATIK BALKRUSHNA",
+      "Mother Name": "BHAGYASHRE E",
+      "PRN": "72329732M"
+    },
+    {
+      "Seat No": "F190800052",
+      "Student Name": "BHAND PRANAV DILIP",
+      "Mother Name": "VANDANA",
+      "PRN": "72329733K"
+    },
+    {
+      "Seat No": "F190800053",
+      "Student Name": "BHANDARKAVATHE SUMIT SANGMESHWAR",
+      "Mother Name": "NAGMMA",
+      "PRN": "72255619F"
+    },
+    {
+      "Seat No": "F190800054",
+      "Student Name": "BHARAMBE KALPESH HITENDRA",
+      "Mother Name": "TOSHITA HITENDRA BHARAMBE",
+      "PRN": "72329734H"
+    },
+    {
+      "Seat No": "F190800055",
+      "Student Name": "BHARAT KUMAR",
+      "Mother Name": "KANWARI DEVI",
+      "PRN": "72329735F"
+    },
+    {
+      "Seat No": "F190800056",
+      "Student Name": "BHAVSAR CHETAN SAMEER",
+      "Mother Name": "TARUNA SAMEER BHAVSAR",
+      "PRN": "72329736D"
+    },
+    {
+      "Seat No": "F190800057",
+      "Student Name": "BHILARE SARTHAK UMESH",
+      "Mother Name": "JYOTSNA BHILARE",
+      "PRN": "72329737B"
+    },
+    {
+      "Seat No": "F190800058",
+      "Student Name": "BHOITE SHUBHAM DATTATRAY",
+      "Mother Name": "NEETA",
+      "PRN": "72368549F"
+    },
+    {
+      "Seat No": "F190800059",
+      "Student Name": "BHOITE VIJAY SANJAY",
+      "Mother Name": "SARASWATI BHOITE",
+      "PRN": "72329738L"
+    },
+    {
+      "Seat No": "F190800060",
+      "Student Name": "BHOSALE PRATIK MAHADEV",
+      "Mother Name": "MIRABAI",
+      "PRN": "72329739J"
+    },
+    {
+      "Seat No": "F190800061",
+      "Student Name": "BHOSLE RUTUJA RAMESHWAR",
+      "Mother Name": "BHOSLE RADHA RAMESHWAR",
+      "PRN": "72329740B"
+    },
+    {
+      "Seat No": "F190800062",
+      "Student Name": "BHUKTARE MEGHANA SANJAY",
+      "Mother Name": "ARCHANA",
+      "PRN": "72329741L"
+    },
+    {
+      "Seat No": "F190800063",
+      "Student Name": "BIRADAR ROHAN VAIJANATH",
+      "Mother Name": "KAVITA",
+      "PRN": "72211452E"
+    },
+    {
+      "Seat No": "F190800064",
+      "Student Name": "BOBADE SURAJ NAVNATH",
+      "Mother Name": "BOBADE JYOTI",
+      "PRN": "72329742J"
+    },
+    {
+      "Seat No": "F190800065",
+      "Student Name": "BORKAR SUHANI NITIN",
+      "Mother Name": "SWATI",
+      "PRN": "72329743G"
+    },
+    {
+      "Seat No": "F190800066",
+      "Student Name": "BORSE NIRAJ YOGESH",
+      "Mother Name": "ARCHANA YOGESH BORSE",
+      "PRN": "72329744E"
+    },
+    {
+      "Seat No": "F190800067",
+      "Student Name": "BUTALA ANUJ YOGESH",
+      "Mother Name": "ALISHA Y. BUTALA",
+      "PRN": "72329745C"
+    },
+    {
+      "Seat No": "F190800068",
+      "Student Name": "CHAITANYA RAUT",
+      "Mother Name": "MEERA",
+      "PRN": "72255621H"
+    },
+    {
+      "Seat No": "F190800069",
+      "Student Name": "CHANDAPURE SHIVANAND HANMANTRAO",
+      "Mother Name": "MAHADEVI",
+      "PRN": "72329746M"
+    },
+    {
+      "Seat No": "F190800070",
+      "Student Name": "CHANDVALE KRUSHNA NAMDEV",
+      "Mother Name": "SHUBHADA",
+      "PRN": "72329747K"
+    },
+    {
+      "Seat No": "F190800071",
+      "Student Name": "CHANNE SIDDHESHWAR SURESH",
+      "Mother Name": "SUREKHA",
+      "PRN": "72329748H"
+    },
+    {
+      "Seat No": "F190800072",
+      "Student Name": "CHAUDHARI ANUSH SANJAY",
+      "Mother Name": "BHARTI",
+      "PRN": "72329749F"
+    },
+    {
+      "Seat No": "F190800073",
+      "Student Name": "CHAUDHARI ANUSHKA ATUL",
+      "Mother Name": "PUNAM ATUL CHAUDHARI",
+      "PRN": "72329750K"
+    },
+    {
+      "Seat No": "F190800074",
+      "Student Name": "CHAUDHARI PRATIKSHA BHIKAJI",
+      "Mother Name": "ARCHANA",
+      "PRN": "72255623D"
+    },
+    {
+      "Seat No": "F190800075",
+      "Student Name": "CHAVAN SURAJ SANTOSH",
+      "Mother Name": "SUJATA",
+      "PRN": "72329751H"
+    },
+    {
+      "Seat No": "F190800076",
+      "Student Name": "CHAVHAN PRAJWAL KIRAN",
+      "Mother Name": "CHAVHAN SARITA KIRAN",
+      "PRN": "72329752F"
+    },
+    {
+      "Seat No": "F190800077",
+      "Student Name": "CHOUDHARI ATHARV SWAPNIL",
+      "Mother Name": "PORNIMA",
+      "PRN": "72255625L"
+    },
+    {
+      "Seat No": "F190800078",
+      "Student Name": "DABDE SAI VIJAY",
+      "Mother Name": "AARTI",
+      "PRN": "72329753D"
+    },
+    {
+      "Seat No": "F190800079",
+      "Student Name": "DABHADE RASHMI SAMPATRAO",
+      "Mother Name": "SWARUPA",
+      "PRN": "72211458D"
+    },
+    {
+      "Seat No": "F190800080",
+      "Student Name": "DAHALE RUPESH HEMANT",
+      "Mother Name": "MADHURI DAHALE",
+      "PRN": "72329754B"
+    },
+    {
+      "Seat No": "F190800081",
+      "Student Name": "DARANDALE PRASHANT SAMBHAJI",
+      "Mother Name": "PUSHPA",
+      "PRN": "72329755L"
+    },
+    {
+      "Seat No": "F190800082",
+      "Student Name": "DARSHAN YUVRAJ BAGUL",
+      "Mother Name": "PUSHPA",
+      "PRN": "72329756J"
+    },
+    {
+      "Seat No": "F190800083",
+      "Student Name": "DAVARE VEDANT MAHESH",
+      "Mother Name": "MADHAVI",
+      "PRN": "72329757G"
+    },
+    {
+      "Seat No": "F190800084",
+      "Student Name": "DEEP SATISH VANJARI",
+      "Mother Name": "SUNAYANA VANJARI",
+      "PRN": "72329758E"
+    },
+    {
+      "Seat No": "F190800085",
+      "Student Name": "DERKAR KETAN  NARENDRA",
+      "Mother Name": "DURGA DERKAR",
+      "PRN": "72329759C"
+    },
+    {
+      "Seat No": "F190800086",
+      "Student Name": "DESALE BHAVESH MAHENDRA",
+      "Mother Name": "NAYANA",
+      "PRN": "72329760G"
+    },
+    {
+      "Seat No": "F190800087",
+      "Student Name": "DESHMUKH BHAKTI PRAVIN",
+      "Mother Name": "PRITI",
+      "PRN": "72255630G"
+    },
+    {
+      "Seat No": "F190800088",
+      "Student Name": "DESHMUKH OM BAPURAO",
+      "Mother Name": "ANITA BAPURAO DESHMUKH",
+      "PRN": "72329761E"
+    },
+    {
+      "Seat No": "F190800089",
+      "Student Name": "DESHMUKH RAJVARDHAN SATISH",
+      "Mother Name": "VIDYA",
+      "PRN": "72255631E"
+    },
+    {
+      "Seat No": "F190800090",
+      "Student Name": "DESHMUKH VIRENDRA SHARAD",
+      "Mother Name": "RATNA",
+      "PRN": "72329762C"
+    },
+    {
+      "Seat No": "F190800091",
+      "Student Name": "DESHPANDE DNYANESH NITIN",
+      "Mother Name": "SUNITA",
+      "PRN": "72329763M"
+    },
+    {
+      "Seat No": "F190800092",
+      "Student Name": "DESHPANDE SARVESH NILESH",
+      "Mother Name": "GEETA NILESH DESHPANDE",
+      "PRN": "72255633M"
+    },
+    {
+      "Seat No": "F190800093",
+      "Student Name": "DESHPANDE SOHAM RAJESH",
+      "Mother Name": "TEJASWINI",
+      "PRN": "72255634K"
+    },
+    {
+      "Seat No": "F190800094",
+      "Student Name": "DESHPANDE YASHADA ANIKET",
+      "Mother Name": "NEETA",
+      "PRN": "72255635H"
+    },
+    {
+      "Seat No": "F190800095",
+      "Student Name": "DEVENDRA VISHAL KHELE",
+      "Mother Name": "SAVITA VISHAL KHELE",
+      "PRN": "72329764K"
+    },
+    {
+      "Seat No": "F190800096",
+      "Student Name": "DHADAVE MANSI DHANANJAY",
+      "Mother Name": "DHADAVE MANDA DHANANJAY",
+      "PRN": "72329765H"
+    },
+    {
+      "Seat No": "F190800097",
+      "Student Name": "DHAGATE PRATHAMESH SHAHAJI",
+      "Mother Name": "NIRMALA",
+      "PRN": "72329766F"
+    },
+    {
+      "Seat No": "F190800098",
+      "Student Name": "DHAKANE PRUTHVIRAJ SANTRAM",
+      "Mother Name": "ANITA",
+      "PRN": "72329767D"
+    },
+    {
+      "Seat No": "F190800099",
+      "Student Name": "DHAKTODE SHRUTI SUBHASH",
+      "Mother Name": "DHAKTODE TRISHALA SUBHASH",
+      "PRN": "72329768B"
+    },
+    {
+      "Seat No": "F190800100",
+      "Student Name": "DHAMALE ADITYA PRAMOD",
+      "Mother Name": "MANGAL DHAMALE",
+      "PRN": "72211465G"
+    },
+    {
+      "Seat No": "F190800101",
+      "Student Name": "DHANGEKAR SAYALI MAHADEV",
+      "Mother Name": "SEEMA",
+      "PRN": "72255638B"
+    },
+    {
+      "Seat No": "F190800102",
+      "Student Name": "DHEKALE SWAYAM RAJESH",
+      "Mother Name": "SARITA",
+      "PRN": "72329769L"
+    },
+    {
+      "Seat No": "F190800103",
+      "Student Name": "DHONDE VEDANT SHEKHAR",
+      "Mother Name": "BHARATI",
+      "PRN": "72329770D"
+    },
+    {
+      "Seat No": "F190800104",
+      "Student Name": "DHORMALE AJINKYA SURESH",
+      "Mother Name": "SUREKHA",
+      "PRN": "72329771B"
+    },
+    {
+      "Seat No": "F190800105",
+      "Student Name": "DHORMALE AKHILESH KESHAV",
+      "Mother Name": "CHHAYA",
+      "PRN": "72329772L"
+    },
+    {
+      "Seat No": "F190800106",
+      "Student Name": "DHOTRE ALISHA PRAMOD",
+      "Mother Name": "SARIKA PRAMOD DHOTRE",
+      "PRN": "72329773J"
+    },
+    {
+      "Seat No": "F190800107",
+      "Student Name": "DHUMAL KSHITIJ NAVNATH",
+      "Mother Name": "SHUBHANGI DHUMAL",
+      "PRN": "72329774G"
+    },
+    {
+      "Seat No": "F190800108",
+      "Student Name": "DHUMAL SANKET SURYKANT",
+      "Mother Name": "VIDYA",
+      "PRN": "72329775E"
+    },
+    {
+      "Seat No": "F190800109",
+      "Student Name": "DUBAL SARTHAK PRAKASH",
+      "Mother Name": "SEEMA",
+      "PRN": "72329776C"
+    },
+    {
+      "Seat No": "F190800110",
+      "Student Name": "DUDHAT HARSHVARDHAN VIRKANT",
+      "Mother Name": "KALPANA",
+      "PRN": "72329777M"
+    },
+    {
+      "Seat No": "F190800111",
+      "Student Name": "FATTEPURKAR ADITYA AJAY",
+      "Mother Name": "RENUKA",
+      "PRN": "72329778K"
+    },
+    {
+      "Seat No": "F190800112",
+      "Student Name": "GADEKAR AATHARV RAJENDRA",
+      "Mother Name": "KAUSHALYA",
+      "PRN": "72255642L"
+    },
+    {
+      "Seat No": "F190800113",
+      "Student Name": "GAIKWAD ADITYA SANJAY",
+      "Mother Name": "VIBHA",
+      "PRN": "72329779H"
+    },
+    {
+      "Seat No": "F190800114",
+      "Student Name": "GAIKWAD POOJA KAILAS",
+      "Mother Name": "ARUNA GAIKWAD",
+      "PRN": "72329780M"
+    },
+    {
+      "Seat No": "F190800115",
+      "Student Name": "GAIKWAD SWAPNIL DNYANESHWAR",
+      "Mother Name": "MADHAVI",
+      "PRN": "72329781K"
+    },
+    {
+      "Seat No": "F190800116",
+      "Student Name": "GAIKWAD YASH KISHOR",
+      "Mother Name": "REKHA",
+      "PRN": "72329782H"
+    },
+    {
+      "Seat No": "F190800117",
+      "Student Name": "GAJBHIYE AKSHAD DHARMENDRA",
+      "Mother Name": "SANGHMITRA",
+      "PRN": "72329783F"
+    },
+    {
+      "Seat No": "F190800118",
+      "Student Name": "GANESH VANDAN CHANDANSHIVE",
+      "Mother Name": "LATA VANDAN CHANDANSHI VE",
+      "PRN": "72211471M"
+    },
+    {
+      "Seat No": "F190800119",
+      "Student Name": "GANGARDE VAISHNAVI JALINDAR",
+      "Mother Name": "SARIKA",
+      "PRN": "72329784D"
+    },
+    {
+      "Seat No": "F190800120",
+      "Student Name": "GARJE AKSHATA ATUL",
+      "Mother Name": "KAMAL",
+      "PRN": "72329785B"
+    },
+    {
+      "Seat No": "F190800121",
+      "Student Name": "GATADE SUMIT SACHIN",
+      "Mother Name": "GATADE SARITA SACHIN",
+      "PRN": "72329786L"
+    },
+    {
+      "Seat No": "F190800122",
+      "Student Name": "GAVALI VINIT SACHIN",
+      "Mother Name": "SHILPA",
+      "PRN": "72329787J"
+    },
+    {
+      "Seat No": "F190800123",
+      "Student Name": "GAWARE VAIBHAVRAJE DNYANESHWAR",
+      "Mother Name": "SHILA",
+      "PRN": "72329788G"
+    },
+    {
+      "Seat No": "F190800124",
+      "Student Name": "GEJAGE RUCHA VIKAS",
+      "Mother Name": "SHOBHA VIKAS GEJAGE",
+      "PRN": "72329789E"
+    },
+    {
+      "Seat No": "F190800125",
+      "Student Name": "GHABADE SAHIL VINOD",
+      "Mother Name": "RANI VINOD GHABADE",
+      "PRN": "72211473H"
+    },
+    {
+      "Seat No": "F190800126",
+      "Student Name": "GHANWAT ANUJA JIJABA",
+      "Mother Name": "GHANWAT VANITA JIJABA",
+      "PRN": "72329790J"
+    },
+    {
+      "Seat No": "F190800127",
+      "Student Name": "GHODAKE ASHUTOSH SACHIN",
+      "Mother Name": "ARUNA",
+      "PRN": "72329791G"
+    },
+    {
+      "Seat No": "F190800128",
+      "Student Name": "GHOLAP SAKSHI KAILAS",
+      "Mother Name": "GHOLAP RATNABAI",
+      "PRN": "72329792E"
+    },
+    {
+      "Seat No": "F190800129",
+      "Student Name": "GHOSARWADKAR ACHINTYA ABHAY",
+      "Mother Name": "PREMA",
+      "PRN": "72211476B"
+    },
+    {
+      "Seat No": "F190800130",
+      "Student Name": "GHULE ROHINI SANJAY",
+      "Mother Name": "MALA",
+      "PRN": "72329793C"
+    },
+    {
+      "Seat No": "F190800131",
+      "Student Name": "GIHRE ARTI VIJAY",
+      "Mother Name": "ANITA",
+      "PRN": "72329794M"
+    },
+    {
+      "Seat No": "F190800132",
+      "Student Name": "GIRAM ATHARV BHASKAR",
+      "Mother Name": "APARNA",
+      "PRN": "72255648K"
+    },
+    {
+      "Seat No": "F190800133",
+      "Student Name": "GORE PRANALI DEVIDAS",
+      "Mother Name": "VIDYA",
+      "PRN": "72329795K"
+    },
+    {
+      "Seat No": "F190800134",
+      "Student Name": "GORE SAHIL RAMDAS",
+      "Mother Name": "MANDA",
+      "PRN": "72329796H"
+    },
+    {
+      "Seat No": "F190800135",
+      "Student Name": "GOSWAMI SARVESH PRAVIN",
+      "Mother Name": "MRUNALINI",
+      "PRN": "72329797F"
+    },
+    {
+      "Seat No": "F190800136",
+      "Student Name": "GULAVE YASU KISAN",
+      "Mother Name": "RANUBAI",
+      "PRN": "72255651K"
+    },
+    {
+      "Seat No": "F190800137",
+      "Student Name": "GURAV TRUPTI VIJAY",
+      "Mother Name": "VANASHREE",
+      "PRN": "72255653F"
+    },
+    {
+      "Seat No": "F190800138",
+      "Student Name": "HALLALE SUDARSHAN SURYAKANT",
+      "Mother Name": "GEETA",
+      "PRN": "72255654D"
+    },
+    {
+      "Seat No": "F190800139",
+      "Student Name": "HANDE OMKAR NANASAHEB",
+      "Mother Name": "UJWALA",
+      "PRN": "72255655B"
+    },
+    {
+      "Seat No": "F190800140",
+      "Student Name": "HARDADE RAJ BALAJI",
+      "Mother Name": "MINA",
+      "PRN": "72329798D"
+    },
+    {
+      "Seat No": "F190800141",
+      "Student Name": "HARDE NIKHIL GANGADHAR",
+      "Mother Name": "ANITA",
+      "PRN": "72329799B"
+    },
+    {
+      "Seat No": "F190800142",
+      "Student Name": "HARSHADA KIRAN GADE",
+      "Mother Name": "VARSHA KIRAN GADE",
+      "PRN": "72329800K"
+    },
+    {
+      "Seat No": "F190800143",
+      "Student Name": "HINGMIRE PRESHITA PRASHANT",
+      "Mother Name": "SHWETA",
+      "PRN": "72329801H"
+    },
+    {
+      "Seat No": "F190800144",
+      "Student Name": "INGALE AMRUTA BAJIRAO",
+      "Mother Name": "SAVITRA",
+      "PRN": "72329802F"
+    },
+    {
+      "Seat No": "F190800145",
+      "Student Name": "INGALE SHANTANU BALU",
+      "Mother Name": "REKHA",
+      "PRN": "72329803D"
+    },
+    {
+      "Seat No": "F190800146",
+      "Student Name": "INGALE SHUBHAM SUNIL",
+      "Mother Name": "INGALE REKHA SUNIL",
+      "PRN": "72329804B"
+    },
+    {
+      "Seat No": "F190800147",
+      "Student Name": "INGAVALE AYUSH SACHIN",
+      "Mother Name": "SARITA",
+      "PRN": "72329805L"
+    },
+    {
+      "Seat No": "F190800148",
+      "Student Name": "INGAWALE NIKHILESH SANJAY",
+      "Mother Name": "SADHANA",
+      "PRN": "72211531J"
+    },
+    {
+      "Seat No": "F190800149",
+      "Student Name": "IRAM MAHAMAD SHAIKH",
+      "Mother Name": "PARVIN MAHAMAD SHAIKH",
+      "PRN": "72329806J"
+    },
+    {
+      "Seat No": "F190800150",
+      "Student Name": "JADHAV AJINKYA SUBHASH",
+      "Mother Name": "NEETA",
+      "PRN": "72255657J"
+    },
+    {
+      "Seat No": "F190800151",
+      "Student Name": "JADHAV NEHA KISHOR",
+      "Mother Name": "VANITA",
+      "PRN": "72329807G"
+    },
+    {
+      "Seat No": "F190800152",
+      "Student Name": "JADHAV PAYAL DNYANESHWAR",
+      "Mother Name": "ROHINI",
+      "PRN": "72329808E"
+    },
+    {
+      "Seat No": "F190800153",
+      "Student Name": "JADHAV RUTUJA LAHU",
+      "Mother Name": "SWATI",
+      "PRN": "72329809C"
+    },
+    {
+      "Seat No": "F190800154",
+      "Student Name": "JADHAV SAI CHANDRAKANT",
+      "Mother Name": "NILAVATI",
+      "PRN": "72255658G"
+    },
+    {
+      "Seat No": "F190800155",
+      "Student Name": "JADHAV SAKSHI SANJAY",
+      "Mother Name": "JAYSHREE",
+      "PRN": "72329810G"
+    },
+    {
+      "Seat No": "F190800156",
+      "Student Name": "JADHAV SOHAM DATTATRAY",
+      "Mother Name": "JADHAV SHUBHANGI DATTATRAY",
+      "PRN": "72329811E"
+    },
+    {
+      "Seat No": "F190800157",
+      "Student Name": "JADHAV VIPUL DADASAHEB",
+      "Mother Name": "ARCHANA",
+      "PRN": "72329812C"
+    },
+    {
+      "Seat No": "F190800158",
+      "Student Name": "JADHAV VIVEK CHANDRABHAN",
+      "Mother Name": "POOJA",
+      "PRN": "72329813M"
+    },
+    {
+      "Seat No": "F190800159",
+      "Student Name": "JADHAV YASH RAGHUNATH",
+      "Mother Name": "RANJANA",
+      "PRN": "72329814K"
+    },
+    {
+      "Seat No": "F190800160",
+      "Student Name": "JAGTAP BALAJI BIBHISHAN",
+      "Mother Name": "LATA",
+      "PRN": "72329815H"
+    },
+    {
+      "Seat No": "F190800161",
+      "Student Name": "JAGTAP HARSHAL NARESH",
+      "Mother Name": "SANDHYA",
+      "PRN": "72329816F"
+    },
+    {
+      "Seat No": "F190800162",
+      "Student Name": "JAGTAP RUSHIKESH RAJENDRA",
+      "Mother Name": "JAGATAP SUREKHA RAJENDRA",
+      "PRN": "72329817D"
+    },
+    {
+      "Seat No": "F190800163",
+      "Student Name": "JAGTAP TEENA SANJAY",
+      "Mother Name": "LEENA SANJAY JAGTAP",
+      "PRN": "72329818B"
+    },
+    {
+      "Seat No": "F190800164",
+      "Student Name": "JAMDADE KRISHNA RAM",
+      "Mother Name": "MANGAL",
+      "PRN": "72329819L"
+    },
+    {
+      "Seat No": "F190800165",
+      "Student Name": "JANGAM PRATHAMESH RAJARAM",
+      "Mother Name": "JANGAM SUNITA RAJARAM",
+      "PRN": "72329820D"
+    },
+    {
+      "Seat No": "F190800166",
+      "Student Name": "JANGHALE KAPIL ZANAKSING",
+      "Mother Name": "REKHABAI",
+      "PRN": "72329821B"
+    },
+    {
+      "Seat No": "F190800167",
+      "Student Name": "JINAY YOGESH SHAH",
+      "Mother Name": "DEEPALI YOGESH SHAH",
+      "PRN": "72329822L"
+    },
+    {
+      "Seat No": "F190800168",
+      "Student Name": "JOSHI YASH SUNIL",
+      "Mother Name": "RAJANI",
+      "PRN": "72255664M"
+    },
+    {
+      "Seat No": "F190800169",
+      "Student Name": "KAD ABHIJEET SANTOSH",
+      "Mother Name": "SWATI",
+      "PRN": "72255665K"
+    },
+    {
+      "Seat No": "F190800170",
+      "Student Name": "KADAM ANIKET SHANTILAL",
+      "Mother Name": "ANITA SHANTILAL KADAM",
+      "PRN": "72329823J"
+    },
+    {
+      "Seat No": "F190800171",
+      "Student Name": "KADAM KUSHAL SUBHASH",
+      "Mother Name": "KADAM JAYASHREE SUBHASH",
+      "PRN": "72329824G"
+    },
+    {
+      "Seat No": "F190800172",
+      "Student Name": "KADAM LAUKIK DILIP",
+      "Mother Name": "KADAM NAYANA DILIP",
+      "PRN": "72329825E"
+    },
+    {
+      "Seat No": "F190800173",
+      "Student Name": "KADAM NANDINI NITIN",
+      "Mother Name": "SAVITA",
+      "PRN": "72329826C"
+    },
+    {
+      "Seat No": "F190800174",
+      "Student Name": "KADAM RUSHIKESH MAHADEV",
+      "Mother Name": "KAVITA",
+      "PRN": "72329827M"
+    },
+    {
+      "Seat No": "F190800175",
+      "Student Name": "KADU VIJAY LAHU",
+      "Mother Name": "ALKA KADU",
+      "PRN": "72329828K"
+    },
+    {
+      "Seat No": "F190800176",
+      "Student Name": "KAKAD ABHISHEK VINOD",
+      "Mother Name": "ANITA VINOD KAKAD",
+      "PRN": "72329829H"
+    },
+    {
+      "Seat No": "F190800177",
+      "Student Name": "KAKADE SUSHANT CHANGDEV",
+      "Mother Name": "SUNITA",
+      "PRN": "72329830M"
+    },
+    {
+      "Seat No": "F190800178",
+      "Student Name": "KAKDE VEDANT GANESH",
+      "Mother Name": "SUNITA KAKDE",
+      "PRN": "72329831K"
+    },
+    {
+      "Seat No": "F190800179",
+      "Student Name": "KALE KUNAL GANESH",
+      "Mother Name": "PRIYANKA KALE",
+      "PRN": "72329832H"
+    },
+    {
+      "Seat No": "F190800180",
+      "Student Name": "KALE SUBODH SHAHAJI",
+      "Mother Name": "SUNITA",
+      "PRN": "72329833F"
+    },
+    {
+      "Seat No": "F190800181",
+      "Student Name": "KALE SUNIL PRABHAKARRAO",
+      "Mother Name": "SUNITA",
+      "PRN": "72329834D"
+    },
+    {
+      "Seat No": "F190800182",
+      "Student Name": "KALE TUSHAR BHAIRAVNATH",
+      "Mother Name": "JAYASHRI",
+      "PRN": "72329835B"
+    },
+    {
+      "Seat No": "F190800183",
+      "Student Name": "KALGE ANKITA PRATAP",
+      "Mother Name": "MANGAL",
+      "PRN": "72255667F"
+    },
+    {
+      "Seat No": "F190800184",
+      "Student Name": "KAMBALE SOHAM SANJAY",
+      "Mother Name": "MANISHA",
+      "PRN": "72255668D"
+    },
+    {
+      "Seat No": "F190800185",
+      "Student Name": "KAMBLE ASHISH RAMCHANDRA",
+      "Mother Name": "SHOBHA",
+      "PRN": "72211491F"
+    },
+    {
+      "Seat No": "F190800186",
+      "Student Name": "KAPNE SHREYA HANUMANT",
+      "Mother Name": "RAJSHREE",
+      "PRN": "72255670F"
+    },
+    {
+      "Seat No": "F190800187",
+      "Student Name": "KARALE YASH LAXMAN",
+      "Mother Name": "SANDHYA",
+      "PRN": "72329836L"
+    },
+    {
+      "Seat No": "F190800188",
+      "Student Name": "KARAN UDAYSINH PATIL",
+      "Mother Name": "VIDYA",
+      "PRN": "72329837J"
+    },
+    {
+      "Seat No": "F190800189",
+      "Student Name": "KARANDE PRATHAMESH BALARAM",
+      "Mother Name": "JYOTI KARANDE",
+      "PRN": "72329838G"
+    },
+    {
+      "Seat No": "F190800190",
+      "Student Name": "KARITE PRANAV PRAKASH",
+      "Mother Name": "PRANALI",
+      "PRN": "72211499M"
+    },
+    {
+      "Seat No": "F190800191",
+      "Student Name": "KARVE VISHAL KIRAN",
+      "Mother Name": "RADHA KIRAN KARVE",
+      "PRN": "72329839E"
+    },
+    {
+      "Seat No": "F190800192",
+      "Student Name": "KARWAR PREMKUMAR SANJAY",
+      "Mother Name": "NIRMALA",
+      "PRN": "72329840J"
+    },
+    {
+      "Seat No": "F190800193",
+      "Student Name": "KASBE KARTIK SHASHIKANT",
+      "Mother Name": "ASHWINI SHASHIKANT KASBE",
+      "PRN": "72211501G"
+    },
+    {
+      "Seat No": "F190800194",
+      "Student Name": "KASHID ADITYA PRADIP",
+      "Mother Name": "POOJA",
+      "PRN": "72329841G"
+    },
+    {
+      "Seat No": "F190800195",
+      "Student Name": "KATHALE AMRUTA ASHOK",
+      "Mother Name": "LATA",
+      "PRN": "72329842E"
+    },
+    {
+      "Seat No": "F190800196",
+      "Student Name": "KATKAR NIKHIL MADAN",
+      "Mother Name": "SEEMA",
+      "PRN": "72255672B"
+    },
+    {
+      "Seat No": "F190800197",
+      "Student Name": "KATORE VISHAL TARACHAND",
+      "Mother Name": "SUREKHABAI",
+      "PRN": "72329843C"
+    },
+    {
+      "Seat No": "F190800198",
+      "Student Name": "KAUSALYE ABHISHEK SANJAY",
+      "Mother Name": "MEERA",
+      "PRN": "72329844M"
+    },
+    {
+      "Seat No": "F190800199",
+      "Student Name": "KAWALE PRATHMESH YUVRAJ",
+      "Mother Name": "SUNITA",
+      "PRN": "72329845K"
+    },
+    {
+      "Seat No": "F190800200",
+      "Student Name": "KENDULE SUDARSHAN VISHNU",
+      "Mother Name": "SHOBHA",
+      "PRN": "72211502E"
+    },
+    {
+      "Seat No": "F190800201",
+      "Student Name": "KESKAR GANESH BIRDEO",
+      "Mother Name": "SUVARNA",
+      "PRN": "72329846H"
+    },
+    {
+      "Seat No": "F190800202",
+      "Student Name": "KHADATKAR SHWET VIJAY",
+      "Mother Name": "SHILPA VIJAY KHADATKAR",
+      "PRN": "72329847F"
+    },
+    {
+      "Seat No": "F190800203",
+      "Student Name": "KHAIRE TANAYA ROHIDAS",
+      "Mother Name": "NIRMALA",
+      "PRN": "72329848D"
+    },
+    {
+      "Seat No": "F190800204",
+      "Student Name": "KHANDAGALE PRIYANKA DHANANJAY",
+      "Mother Name": "VAISHALI",
+      "PRN": "72255675G"
+    },
+    {
+      "Seat No": "F190800205",
+      "Student Name": "KHANDEKAR DINESH LAXMAN",
+      "Mother Name": "SUNITA",
+      "PRN": "72329849B"
+    },
+    {
+      "Seat No": "F190800206",
+      "Student Name": "KHANDRE VENKATESH MILIND",
+      "Mother Name": "YOGITA",
+      "PRN": "72329850F"
+    },
+    {
+      "Seat No": "F190800207",
+      "Student Name": "KHANDVE AVDHUT MUKUND",
+      "Mother Name": "SUNANDA",
+      "PRN": "72329851D"
+    },
+    {
+      "Seat No": "F190800208",
+      "Student Name": "KHARAT ATHARVA ANIL",
+      "Mother Name": "SEEMA",
+      "PRN": "72255676E"
+    },
+    {
+      "Seat No": "F190800209",
+      "Student Name": "KHATPE AYUSH SANTOSH",
+      "Mother Name": "MONIKA KHATPE",
+      "PRN": "72329852B"
+    },
+    {
+      "Seat No": "F190800210",
+      "Student Name": "KHONDE LOKESH BHAGWAN",
+      "Mother Name": "SUREKHA",
+      "PRN": "72329853L"
+    },
+    {
+      "Seat No": "F190800211",
+      "Student Name": "KIKALE VAIBHAVI GANESH",
+      "Mother Name": "DHANASHRI GANESH KIKALE",
+      "PRN": "72329854J"
+    },
+    {
+      "Seat No": "F190800212",
+      "Student Name": "KIRAN MAHENDRA GOSAVI",
+      "Mother Name": "VAISHALI GOSAVI",
+      "PRN": "72329855G"
+    },
+    {
+      "Seat No": "F190800213",
+      "Student Name": "KIRAR SUPRIYA BRIJMOHAN",
+      "Mother Name": "RAJANI",
+      "PRN": "72329856E"
+    },
+    {
+      "Seat No": "F190800214",
+      "Student Name": "KODLINGE OMKAR RAJARAM",
+      "Mother Name": "MANISHA",
+      "PRN": "72329857C"
+    },
+    {
+      "Seat No": "F190800215",
+      "Student Name": "KOKANE ATHARVA KAILASH",
+      "Mother Name": "ASHWINI KAILASH KOKANE",
+      "PRN": "72329858M"
+    },
+    {
+      "Seat No": "F190800216",
+      "Student Name": "KOLI ABHIJIT CHANDRAKANT",
+      "Mother Name": "VAISHALI CHANDRAKA NT KOLI",
+      "PRN": "72329859K"
+    },
+    {
+      "Seat No": "F190800217",
+      "Student Name": "KOLI HONAPPA PRASHANT",
+      "Mother Name": "KOLI JAYSHRI HONAPPA",
+      "PRN": "72255679K"
+    },
+    {
+      "Seat No": "F190800218",
+      "Student Name": "KOMALWAR GAURAV DEEPAKRAO",
+      "Mother Name": "ANUSAYA",
+      "PRN": "72255680C"
+    },
+    {
+      "Seat No": "F190800219",
+      "Student Name": "KONDE AMIT GULAB",
+      "Mother Name": "MALAN",
+      "PRN": "72329860C"
+    },
+    {
+      "Seat No": "F190800220",
+      "Student Name": "KORE SIDDHARAM BALAPPA",
+      "Mother Name": "KASTURABAI",
+      "PRN": "72329861M"
+    },
+    {
+      "Seat No": "F190800221",
+      "Student Name": "KSHIRSAGAR VEDANTI SANTOSH",
+      "Mother Name": "SHUBHANGI",
+      "PRN": "72255681M"
+    },
+    {
+      "Seat No": "F190800222",
+      "Student Name": "KULKARNI DNYANESHWARI MANGESH",
+      "Mother Name": "JYOTI",
+      "PRN": "72255682K"
+    },
+    {
+      "Seat No": "F190800223",
+      "Student Name": "KULKARNI SAKSHI SATISH",
+      "Mother Name": "VAISHALI",
+      "PRN": "72211511D"
+    },
+    {
+      "Seat No": "F190800224",
+      "Student Name": "KULKARNI SRINIDHI SRIHARI",
+      "Mother Name": "MADHUMATI",
+      "PRN": "72329862K"
+    },
+    {
+      "Seat No": "F190800225",
+      "Student Name": "KULKARNI SUNEET MANGESH",
+      "Mother Name": "KULKARNI MEDHA MANGESH",
+      "PRN": "72329863H"
+    },
+    {
+      "Seat No": "F190800226",
+      "Student Name": "KUMBHAR EKTA HANMANT",
+      "Mother Name": "JYOTI",
+      "PRN": "72329864F"
+    },
+    {
+      "Seat No": "F190800227",
+      "Student Name": "KUMBHAR RUDRAKSH RAMESH",
+      "Mother Name": "SANDHAYA RAMESH KUMBHAR",
+      "PRN": "72329865D"
+    },
+    {
+      "Seat No": "F190800228",
+      "Student Name": "KUNALE NIRBHAY MOHAN",
+      "Mother Name": "SANGEETA",
+      "PRN": "72255684F"
+    },
+    {
+      "Seat No": "F190800229",
+      "Student Name": "LABHANE SUYASH YOGRAJ",
+      "Mother Name": "SHILA",
+      "PRN": "72329866B"
+    },
+    {
+      "Seat No": "F190800230",
+      "Student Name": "LAD MANSI VAIBHAV",
+      "Mother Name": "SONAL",
+      "PRN": "72255685D"
+    },
+    {
+      "Seat No": "F190800231",
+      "Student Name": "LANDE SHRUSHTI SHRILOSH",
+      "Mother Name": "ASWINI",
+      "PRN": "72255686B"
+    },
+    {
+      "Seat No": "F190800232",
+      "Student Name": "LANGUTE ROHAN KANTILAL",
+      "Mother Name": "MANISHA",
+      "PRN": "72255687L"
+    },
+    {
+      "Seat No": "F190800233",
+      "Student Name": "LINGOJI GANESH BHARATRAO",
+      "Mother Name": "BHAGYASHRI",
+      "PRN": "72255688J"
+    },
+    {
+      "Seat No": "F190800234",
+      "Student Name": "LOHAR PRATIK ANNAPPA",
+      "Mother Name": "LAXMI",
+      "PRN": "72329867L"
+    },
+    {
+      "Seat No": "F190800235",
+      "Student Name": "LOKHANDE SNEHAL JAYENDRA",
+      "Mother Name": "SUNITA",
+      "PRN": "72329868J"
+    },
+    {
+      "Seat No": "F190800236",
+      "Student Name": "LOKHANDE VIRAJ LOKHANDE",
+      "Mother Name": "RUPALI",
+      "PRN": "72329869G"
+    },
+    {
+      "Seat No": "F190800237",
+      "Student Name": "MACHALE LAUKIK DATTATRAY",
+      "Mother Name": "PALLAVI",
+      "PRN": "72329870L"
+    },
+    {
+      "Seat No": "F190800238",
+      "Student Name": "MACHALE SAMRADNYI DATTATRAY",
+      "Mother Name": "PALLAVI",
+      "PRN": "72329871J"
+    },
+    {
+      "Seat No": "F190800239",
+      "Student Name": "MADANE VISHAL DNYANDEV",
+      "Mother Name": "PADAMINI",
+      "PRN": "72329872G"
+    },
+    {
+      "Seat No": "F190800240",
+      "Student Name": "MAGAR TEJAS SANTOSH",
+      "Mother Name": "SHAILA",
+      "PRN": "72255691J"
+    },
+    {
+      "Seat No": "F190800241",
+      "Student Name": "MALVATKAR VISHAL SANJAY",
+      "Mother Name": "MANISHA",
+      "PRN": "72255694C"
+    },
+    {
+      "Seat No": "F190800242",
+      "Student Name": "MANE PRATIKSHA PANDIT",
+      "Mother Name": "SHAKUNTALA",
+      "PRN": "72329873E"
+    },
+    {
+      "Seat No": "F190800243",
+      "Student Name": "MANE SAURABH ANIL",
+      "Mother Name": "MANE LAXMI ANIL",
+      "PRN": "72255696K"
+    },
+    {
+      "Seat No": "F190800244",
+      "Student Name": "MANE SIDDHESH SACHIN",
+      "Mother Name": "MANISHA",
+      "PRN": "72329874C"
+    },
+    {
+      "Seat No": "F190800245",
+      "Student Name": "MANE VISHVENDRA VILAS",
+      "Mother Name": "SUPRIYA",
+      "PRN": "72329875M"
+    },
+    {
+      "Seat No": "F190800246",
+      "Student Name": "MANE YASH AJAY",
+      "Mother Name": "VARSHA",
+      "PRN": "72329876K"
+    },
+    {
+      "Seat No": "F190800247",
+      "Student Name": "MANI SAYALI NANDKUMARSA",
+      "Mother Name": "MANI RADHIKA NANDKUMAR SA",
+      "PRN": "72329877H"
+    },
+    {
+      "Seat No": "F190800248",
+      "Student Name": "MANTE ONKAR PANDHARINATH",
+      "Mother Name": "SANDHYA",
+      "PRN": "72255697H"
+    },
+    {
+      "Seat No": "F190800249",
+      "Student Name": "MANZA ROSHAN BABUSING",
+      "Mother Name": "ANITABAI BABUSING MANZA",
+      "PRN": "72211524F"
+    },
+    {
+      "Seat No": "F190800250",
+      "Student Name": "MARATHE AYUSH JITENDRA",
+      "Mother Name": "SARITA",
+      "PRN": "72329878F"
+    },
+    {
+      "Seat No": "F190800251",
+      "Student Name": "MASHERE VINAYAK CHANGDEV",
+      "Mother Name": "MINA",
+      "PRN": "72329879D"
+    },
+    {
+      "Seat No": "F190800252",
+      "Student Name": "MATE KULDEEP BHAIRAVNATH",
+      "Mother Name": "VIDYA BHAIRAVNAT H MATE",
+      "PRN": "72329880H"
+    },
+    {
+      "Seat No": "F190800253",
+      "Student Name": "MAULI ASHOK RAJMANE",
+      "Mother Name": "VAISHALI",
+      "PRN": "72329881F"
+    },
+    {
+      "Seat No": "F190800254",
+      "Student Name": "MAVALE SAKSHI VIJAYKUMAR",
+      "Mother Name": "SUREKHA VIJAYKUMAR MAVALE",
+      "PRN": "72329882D"
+    },
+    {
+      "Seat No": "F190800255",
+      "Student Name": "MAYURI RAJARAM JADHAV",
+      "Mother Name": "SARIKA RAJARAM JADHAV",
+      "PRN": "72329883B"
+    },
+    {
+      "Seat No": "F190800256",
+      "Student Name": "MIRPAGAR YASH SACHIN",
+      "Mother Name": "VAISHALI",
+      "PRN": "72329884L"
+    },
+    {
+      "Seat No": "F190800257",
+      "Student Name": "MISAL ROHIT VAMAN",
+      "Mother Name": "MANISHA",
+      "PRN": "72255701K"
+    },
+    {
+      "Seat No": "F190800258",
+      "Student Name": "MOHITE OJAS BHUSHAN",
+      "Mother Name": "VAISHALI",
+      "PRN": "72255702H"
+    },
+    {
+      "Seat No": "F190800259",
+      "Student Name": "MOHITE SHIVRATNA ROHIDAS",
+      "Mother Name": "VAISHALI",
+      "PRN": "72211527L"
+    },
+    {
+      "Seat No": "F190800260",
+      "Student Name": "MOHOD PIYUSH GANESH",
+      "Mother Name": "SUNITA GANESH MOHOD",
+      "PRN": "72255703F"
+    },
+    {
+      "Seat No": "F190800261",
+      "Student Name": "MORALE PRANITA KAILAS",
+      "Mother Name": "NANDA",
+      "PRN": "72329885J"
+    },
+    {
+      "Seat No": "F190800262",
+      "Student Name": "MORE ANUSHKA ANIL",
+      "Mother Name": "MORE SARIKA ANIL",
+      "PRN": "72329886G"
+    },
+    {
+      "Seat No": "F190800263",
+      "Student Name": "MORE MANGALYA PRAKASH",
+      "Mother Name": "SHEETAL PRAKASH MORE",
+      "PRN": "72329887E"
+    },
+    {
+      "Seat No": "F190800264",
+      "Student Name": "MORE ROHAN PINTU",
+      "Mother Name": "ARCHANA",
+      "PRN": "72329888C"
+    },
+    {
+      "Seat No": "F190800265",
+      "Student Name": "MORE SAKSHI RAHUL",
+      "Mother Name": "RANEE",
+      "PRN": "72329889M"
+    },
+    {
+      "Seat No": "F190800266",
+      "Student Name": "MRUNAL RAJESH  THAMAKE",
+      "Mother Name": "ASHA RAJESH THAMAKE",
+      "PRN": "72329890E"
+    },
+    {
+      "Seat No": "F190800267",
+      "Student Name": "MUKTA RAJENDRA THUBE",
+      "Mother Name": "SHARADA THUBE",
+      "PRN": "72329891C"
+    },
+    {
+      "Seat No": "F190800268",
+      "Student Name": "MULANI SHAHID AMIR",
+      "Mother Name": "ZARINA",
+      "PRN": "72329892M"
+    },
+    {
+      "Seat No": "F190800269",
+      "Student Name": "MULAY OM SANDIP",
+      "Mother Name": "KAVERI",
+      "PRN": "72329893K"
+    },
+    {
+      "Seat No": "F190800270",
+      "Student Name": "MUNDHE PRITAM HARIBHAU",
+      "Mother Name": "JAYASHREE",
+      "PRN": "72329894H"
+    },
+    {
+      "Seat No": "F190800271",
+      "Student Name": "NAGARGOJE ASHOK JALINDAR",
+      "Mother Name": "SONABAI",
+      "PRN": "72211528J"
+    },
+    {
+      "Seat No": "F190800272",
+      "Student Name": "NAKSHANE PURVA DINESH",
+      "Mother Name": "SAVITA",
+      "PRN": "72255706L"
+    },
+    {
+      "Seat No": "F190800273",
+      "Student Name": "NANDRE AVINASH BHASKAR",
+      "Mother Name": "VANDANA NANDRE",
+      "PRN": "72329895F"
+    },
+    {
+      "Seat No": "F190800274",
+      "Student Name": "NARGALE ABHISHEK RAVINDRA",
+      "Mother Name": "RUKMIN",
+      "PRN": "72329896D"
+    },
+    {
+      "Seat No": "F190800275",
+      "Student Name": "NARKHEDE YASH PRAVIN",
+      "Mother Name": "LALITA",
+      "PRN": "72329897B"
+    },
+    {
+      "Seat No": "F190800276",
+      "Student Name": "NAVAGIRE VISHAL DNYANESHWAR",
+      "Mother Name": "MANGAL DNYANESHW AR NAVAGIRE",
+      "PRN": "72211529G"
+    },
+    {
+      "Seat No": "F190800277",
+      "Student Name": "NAVAL PRASHANT SANTOSH",
+      "Mother Name": "KOMAL",
+      "PRN": "72329898L"
+    },
+    {
+      "Seat No": "F190800278",
+      "Student Name": "NAVALE SARTHAK SANJAY",
+      "Mother Name": "RESHMA",
+      "PRN": "72329899J"
+    },
+    {
+      "Seat No": "F190800279",
+      "Student Name": "NHAVKAR ATHARVA MAHESH",
+      "Mother Name": "SUJATA",
+      "PRN": "72329900F"
+    },
+    {
+      "Seat No": "F190800280",
+      "Student Name": "NIKAM KSHITIJ SANTOSH",
+      "Mother Name": "MANISHA",
+      "PRN": "72329901D"
+    },
+    {
+      "Seat No": "F190800281",
+      "Student Name": "NIKAM NIKITA ASHOK",
+      "Mother Name": "LATIKA",
+      "PRN": "72329902B"
+    },
+    {
+      "Seat No": "F190800282",
+      "Student Name": "NIKAM SHIVAM ASHOK",
+      "Mother Name": "VRUNDAVANI ASHOK NIKAM",
+      "PRN": "72329903L"
+    },
+    {
+      "Seat No": "F190800283",
+      "Student Name": "NIMBALKAR PUSHKAR SUNIL",
+      "Mother Name": "JAYASHREE",
+      "PRN": "72329904J"
+    },
+    {
+      "Seat No": "F190800284",
+      "Student Name": "OM POPAT KARALE",
+      "Mother Name": "ANITA",
+      "PRN": "72329905G"
+    },
+    {
+      "Seat No": "F190800285",
+      "Student Name": "OM TUKARAM GUND",
+      "Mother Name": "KUSHIVARTA TUKARAM GUND",
+      "PRN": "72329906E"
+    },
+    {
+      "Seat No": "F190800286",
+      "Student Name": "ONKAR DINKAR PATIL",
+      "Mother Name": "VANDANA DINKAR PATIL",
+      "PRN": "72329907C"
+    },
+    {
+      "Seat No": "F190800287",
+      "Student Name": "PACHBHAI PRAGATI RAMESHWAR",
+      "Mother Name": "PACHBHAI ARCHANA",
+      "PRN": "72329908M"
+    },
+    {
+      "Seat No": "F190800288",
+      "Student Name": "PADWAL ANJALI AVINASH",
+      "Mother Name": "ASHA PADWAL",
+      "PRN": "72329909K"
+    },
+    {
+      "Seat No": "F190800289",
+      "Student Name": "PALWE VIJAYRAJ SHIVRAJ",
+      "Mother Name": "BHARATI",
+      "PRN": "72329910C"
+    },
+    {
+      "Seat No": "F190800290",
+      "Student Name": "PALWE YOGESH TRIMBAKESHWAR",
+      "Mother Name": "AMBIKA",
+      "PRN": "72329911M"
+    },
+    {
+      "Seat No": "F190800291",
+      "Student Name": "PANCHGHANTE OMKAR PRAKASH",
+      "Mother Name": "SAVITA",
+      "PRN": "72255716H"
+    },
+    {
+      "Seat No": "F190800292",
+      "Student Name": "PANDE SOHAM PRASHANT",
+      "Mother Name": "MADHAVI",
+      "PRN": "72329912K"
+    },
+    {
+      "Seat No": "F190800293",
+      "Student Name": "PANDHARE ABHISHEK SATISH",
+      "Mother Name": "KALPANA",
+      "PRN": "72255717F"
+    },
+    {
+      "Seat No": "F190800294",
+      "Student Name": "PANDIT YASH SUDAM",
+      "Mother Name": "PANDIT SINDHUBAI SUDAM",
+      "PRN": "72329913H"
+    },
+    {
+      "Seat No": "F190800295",
+      "Student Name": "PANHALE PRITI KESHAV",
+      "Mother Name": "RATNA",
+      "PRN": "72255718D"
+    },
+    {
+      "Seat No": "F190800296",
+      "Student Name": "PARGOND RAJANI SANJEEVKUMAR",
+      "Mother Name": "PARGOND SARASWATI SANJEEVKUM AR",
+      "PRN": "72329914F"
+    },
+    {
+      "Seat No": "F190800297",
+      "Student Name": "PARIHAR CHAITANYA RAHUL",
+      "Mother Name": "VANDANA",
+      "PRN": "72211536K"
+    },
+    {
+      "Seat No": "F190800298",
+      "Student Name": "PARIKSHALE SANGHPRIYA ARJUN",
+      "Mother Name": "RANJANA",
+      "PRN": "72255720F"
+    },
+    {
+      "Seat No": "F190800299",
+      "Student Name": "PASALKAR SAHIL BIPIN",
+      "Mother Name": "SUVARNA BIPIN PASALKAR",
+      "PRN": "72211539D"
+    },
+    {
+      "Seat No": "F190800300",
+      "Student Name": "PASALKAR SHANTANU VIKAS",
+      "Mother Name": "CHHAYA",
+      "PRN": "72329915D"
+    },
+    {
+      "Seat No": "F190800301",
+      "Student Name": "PATEL SOHEL RAHAMAN",
+      "Mother Name": "PATEL SHABANA RAHAMAN",
+      "PRN": "72211541F"
+    },
+    {
+      "Seat No": "F190800302",
+      "Student Name": "PATIL ADITYA PRAMOD",
+      "Mother Name": "NILIMA PRAMOD PATIL",
+      "PRN": "72329916B"
+    },
+    {
+      "Seat No": "F190800303",
+      "Student Name": "PATIL ADITYA SHAMRAO",
+      "Mother Name": "PATIL MANJIRI SHAMRAO",
+      "PRN": "72329917L"
+    },
+    {
+      "Seat No": "F190800304",
+      "Student Name": "PATIL AMRUTA HANSRAJ",
+      "Mother Name": "ANJALI PATIL",
+      "PRN": "72329918J"
+    },
+    {
+      "Seat No": "F190800305",
+      "Student Name": "PATIL ANIKESH RAKESH",
+      "Mother Name": "ANITA",
+      "PRN": "72329919G"
+    },
+    {
+      "Seat No": "F190800306",
+      "Student Name": "PATIL ANUSHKA RAMRAO",
+      "Mother Name": "SANJIWANI RAMRAO PATIL",
+      "PRN": "72329920L"
+    },
+    {
+      "Seat No": "F190800307",
+      "Student Name": "PATIL PRASHANT SUHAS",
+      "Mother Name": "SUVRNA SUHAS PATIL",
+      "PRN": "72211546G"
+    },
+    {
+      "Seat No": "F190800308",
+      "Student Name": "PATIL PRATHAMESH DHANAJI",
+      "Mother Name": "CHHAYA DHANAJI PATIL",
+      "PRN": "72329921J"
+    },
+    {
+      "Seat No": "F190800309",
+      "Student Name": "PATIL PRATIK YOGESH",
+      "Mother Name": "SUREKHA YOGESH PATIL",
+      "PRN": "72329922G"
+    },
+    {
+      "Seat No": "F190800310",
+      "Student Name": "PATIL RITESH DEEPAK",
+      "Mother Name": "VASUDHA",
+      "PRN": "72329923E"
+    },
+    {
+      "Seat No": "F190800311",
+      "Student Name": "PATIL SAIRAJ MOHAN",
+      "Mother Name": "PATIL SANGITA MOHAN",
+      "PRN": "72329924C"
+    },
+    {
+      "Seat No": "F190800312",
+      "Student Name": "PATIL SHREYASH DEVENDRA",
+      "Mother Name": "UJAWALA",
+      "PRN": "72329925M"
+    },
+    {
+      "Seat No": "F190800313",
+      "Student Name": "PATIL YASH VINOD",
+      "Mother Name": "UJWALA",
+      "PRN": "72329926K"
+    },
+    {
+      "Seat No": "F190800314",
+      "Student Name": "PAWAL MADHURA BHASKAR",
+      "Mother Name": "KAMAL",
+      "PRN": "72329927H"
+    },
+    {
+      "Seat No": "F190800315",
+      "Student Name": "PAWAL PRANAV HARISHCHANDRA",
+      "Mother Name": "MANISHA",
+      "PRN": "72255725G"
+    },
+    {
+      "Seat No": "F190800316",
+      "Student Name": "PAWAR GAJENDRA SUNIL",
+      "Mother Name": "VANDANA",
+      "PRN": "72255728M"
+    },
+    {
+      "Seat No": "F190800317",
+      "Student Name": "PAWAR ISHANI SHANKAR",
+      "Mother Name": "PAWAR ASHWINI SHANKAR",
+      "PRN": "72329928F"
+    },
+    {
+      "Seat No": "F190800318",
+      "Student Name": "PAWAR OM MANOHAR",
+      "Mother Name": "UJWALA",
+      "PRN": "72329929D"
+    },
+    {
+      "Seat No": "F190800319",
+      "Student Name": "PAWAR RUSHABH ANILRAO",
+      "Mother Name": "RUPALI",
+      "PRN": "72255729K"
+    },
+    {
+      "Seat No": "F190800320",
+      "Student Name": "PAWAR SANRANG BHARAT",
+      "Mother Name": "KALPANA",
+      "PRN": "72329930H"
+    },
+    {
+      "Seat No": "F190800321",
+      "Student Name": "PAWAR SRUSHTI VINOD",
+      "Mother Name": "PREETI",
+      "PRN": "72255730C"
+    },
+    {
+      "Seat No": "F190800322",
+      "Student Name": "PAWAR SUDHAKAR CHANDRASHEKHAR",
+      "Mother Name": "LATA",
+      "PRN": "72329931F"
+    },
+    {
+      "Seat No": "F190800323",
+      "Student Name": "PAWAR YASH VIJAY",
+      "Mother Name": "PAWAR MANISHA VIJAY",
+      "PRN": "72211548C"
+    },
+    {
+      "Seat No": "F190800324",
+      "Student Name": "PAWAR YOGESH BABAN",
+      "Mother Name": "PADMINI",
+      "PRN": "72211549M"
+    },
+    {
+      "Seat No": "F190800325",
+      "Student Name": "PHADTARE MAITHILI PRADTARE",
+      "Mother Name": "PHADTARE SHAILA PRAMOD",
+      "PRN": "72329932D"
+    },
+    {
+      "Seat No": "F190800326",
+      "Student Name": "PHAPAL PRANALI MAHADEV",
+      "Mother Name": "RADHABAI PHAPAL",
+      "PRN": "72329933B"
+    },
+    {
+      "Seat No": "F190800327",
+      "Student Name": "PHATE PRANJALI SANTOSH",
+      "Mother Name": "VANDNA",
+      "PRN": "72329934L"
+    },
+    {
+      "Seat No": "F190800328",
+      "Student Name": "PISE PRANAV MAHADEV",
+      "Mother Name": "SWATI",
+      "PRN": "72255733H"
+    },
+    {
+      "Seat No": "F190800329",
+      "Student Name": "POKHARKAR PRAJWAL NARENDRA",
+      "Mother Name": "REKHA",
+      "PRN": "72255734F"
+    },
+    {
+      "Seat No": "F190800330",
+      "Student Name": "POTDAR AMRUTA BALAJI",
+      "Mother Name": "DIPA",
+      "PRN": "72329935J"
+    },
+    {
+      "Seat No": "F190800331",
+      "Student Name": "POTE CHANDRAKANT JALINDAR",
+      "Mother Name": "DWARKABAI",
+      "PRN": "72329936G"
+    },
+    {
+      "Seat No": "F190800332",
+      "Student Name": "PRAGATI BIBHISHAN KHARAT",
+      "Mother Name": "SWATI",
+      "PRN": "72329937E"
+    },
+    {
+      "Seat No": "F190800333",
+      "Student Name": "PRAGATI SUHAS GAPAT",
+      "Mother Name": "RAJKANYA GAPAT",
+      "PRN": "72329938C"
+    },
+    {
+      "Seat No": "F190800334",
+      "Student Name": "PRAJAPATI SANDHYA RAVISHANKAR",
+      "Mother Name": "BINDU",
+      "PRN": "72255737L"
+    },
+    {
+      "Seat No": "F190800335",
+      "Student Name": "PRANAV ANIL ATOLE",
+      "Mother Name": "SARIKA",
+      "PRN": "72329939M"
+    },
+    {
+      "Seat No": "F190800336",
+      "Student Name": "PRANAV ANNASAHEB DIGHE",
+      "Mother Name": "SAVITA ANNASAHEB DIGHE",
+      "PRN": "72329940E"
+    },
+    {
+      "Seat No": "F190800337",
+      "Student Name": "PRANAV TRYAMBAK DEORE",
+      "Mother Name": "LALITA TRYAMBAK DEORE",
+      "PRN": "72329941C"
+    },
+    {
+      "Seat No": "F190800338",
+      "Student Name": "PRANAY GANESH SANANSE",
+      "Mother Name": "ANITA SANANSE",
+      "PRN": "72329942M"
+    },
+    {
+      "Seat No": "F190800339",
+      "Student Name": "PRANAY VILAS RAKHUNDE",
+      "Mother Name": "SUJATA",
+      "PRN": "72329943K"
+    },
+    {
+      "Seat No": "F190800340",
+      "Student Name": "PRANJAL NITIN KOKATE",
+      "Mother Name": "VAISHNAVI KOKATE",
+      "PRN": "72329944H"
+    },
+    {
+      "Seat No": "F190800341",
+      "Student Name": "PRASAD SURESH PINGLE",
+      "Mother Name": "YOGITA",
+      "PRN": "72329945F"
+    },
+    {
+      "Seat No": "F190800342",
+      "Student Name": "PRASAD VIPIN PATIL",
+      "Mother Name": "ARUNA VIPIN PATIL",
+      "PRN": "72329946D"
+    },
+    {
+      "Seat No": "F190800343",
+      "Student Name": "PRATHMESH PRASHANT MORE",
+      "Mother Name": "HEMLATA MORE",
+      "PRN": "72329947B"
+    },
+    {
+      "Seat No": "F190800344",
+      "Student Name": "PRATIKSHA VITTHAL WALUNJ",
+      "Mother Name": "ANITA WALUNJ",
+      "PRN": "72329948L"
+    },
+    {
+      "Seat No": "F190800345",
+      "Student Name": "PREM PRADEEP SHANKPAL",
+      "Mother Name": "JANA SHANKPAL",
+      "PRN": "72211558L"
+    },
+    {
+      "Seat No": "F190800346",
+      "Student Name": "PRIYANKA CHANDHRKANT KHILARE",
+      "Mother Name": "LAXMI",
+      "PRN": "72255740L"
+    },
+    {
+      "Seat No": "F190800347",
+      "Student Name": "PRUTHVIRAJ KAILAS KASHID",
+      "Mother Name": "VAISHALI",
+      "PRN": "72211560B"
+    },
+    {
+      "Seat No": "F190800348",
+      "Student Name": "PUKHARAJ BABULAL SUTAR",
+      "Mother Name": "SANTU",
+      "PRN": "72329949J"
+    },
+    {
+      "Seat No": "F190800349",
+      "Student Name": "PUND VISHAL ASHOK",
+      "Mother Name": "ASHVINI",
+      "PRN": "72329950B"
+    },
+    {
+      "Seat No": "F190800350",
+      "Student Name": "PURI ROHAN GOVIND",
+      "Mother Name": "SHARADA GOVIND PURI",
+      "PRN": "72329951L"
+    },
+    {
+      "Seat No": "F190800351",
+      "Student Name": "RAIKAR TEJASHVI DATTATRAYA",
+      "Mother Name": "SUNANDA",
+      "PRN": "72329952J"
+    },
+    {
+      "Seat No": "F190800352",
+      "Student Name": "RAJPUT PRINCE ARJUN",
+      "Mother Name": "JYOTI ARJUN RAJPUT",
+      "PRN": "72329953G"
+    },
+    {
+      "Seat No": "F190800353",
+      "Student Name": "RANJIT CHANDRASHEKHAR JAGTAP",
+      "Mother Name": "SUREKHA CHANDRASH EKHAR JAGTAP",
+      "PRN": "72329954E"
+    },
+    {
+      "Seat No": "F190800354",
+      "Student Name": "RATHOD AARUN MITTHU",
+      "Mother Name": "RUKMINI",
+      "PRN": "72255744C"
+    },
+    {
+      "Seat No": "F190800355",
+      "Student Name": "RATHOD PAWAN BHIMRAO",
+      "Mother Name": "ARUNA",
+      "PRN": "72329955C"
+    },
+    {
+      "Seat No": "F190800356",
+      "Student Name": "RATHOD RITESH NAMDEV",
+      "Mother Name": "VIDYABAI",
+      "PRN": "72329956M"
+    },
+    {
+      "Seat No": "F190800357",
+      "Student Name": "RATHOD YASH MAMRAJ",
+      "Mother Name": "SONALI MAMRAJ RATHOD",
+      "PRN": "72329957K"
+    },
+    {
+      "Seat No": "F190800358",
+      "Student Name": "RAUT PRAJAKTA POPAT",
+      "Mother Name": "PUSHPA",
+      "PRN": "72329958H"
+    },
+    {
+      "Seat No": "F190800359",
+      "Student Name": "RAWAL SHREE YOGESH",
+      "Mother Name": "REVATI",
+      "PRN": "72329959F"
+    },
+    {
+      "Seat No": "F190800360",
+      "Student Name": "REMJE AYUSH GANGARAM",
+      "Mother Name": "SHARMILA GANGARAM REMJE",
+      "PRN": "72329960K"
+    },
+    {
+      "Seat No": "F190800361",
+      "Student Name": "RITESH GAJENDRA JADHAL",
+      "Mother Name": "REKHA GAJENDRA JADHAL",
+      "PRN": "72329961H"
+    },
+    {
+      "Seat No": "F190800362",
+      "Student Name": "ROHAN ARUN DUBAL",
+      "Mother Name": "NANDA ARUN DUBAL",
+      "PRN": "72255748F"
+    },
+    {
+      "Seat No": "F190800363",
+      "Student Name": "ROHIT HIRALAL HAJARE",
+      "Mother Name": "MAMTA",
+      "PRN": "72255749D"
+    },
+    {
+      "Seat No": "F190800364",
+      "Student Name": "ROKADE SAURABH POPAT",
+      "Mother Name": "SAVITA",
+      "PRN": "72329962F"
+    },
+    {
+      "Seat No": "F190800365",
+      "Student Name": "RUDRA ANIL PADMAWAR",
+      "Mother Name": "ANJALI PADMAWAR",
+      "PRN": "72329963D"
+    },
+    {
+      "Seat No": "F190800366",
+      "Student Name": "RUDRAKSHA DIPAK WABALE",
+      "Mother Name": "VAISHALI DIPAK WABALE",
+      "PRN": "72329964B"
+    },
+    {
+      "Seat No": "F190800367",
+      "Student Name": "RUTURAJ APPASAHEB SURYAWANSHI",
+      "Mother Name": "KAVITA APPASAHEB SURYAWANS HI",
+      "PRN": "72329965L"
+    },
+    {
+      "Seat No": "F190800368",
+      "Student Name": "SABALE SWARAJ SUDHIR",
+      "Mother Name": "SWATI",
+      "PRN": "72329966J"
+    },
+    {
+      "Seat No": "F190800369",
+      "Student Name": "SABOO POORVA SHRIKISHAN",
+      "Mother Name": "SHEETAL SABOO",
+      "PRN": "72329967G"
+    },
+    {
+      "Seat No": "F190800370",
+      "Student Name": "SAHDEV DIPAK BARGE",
+      "Mother Name": "VIJAYMALA DIPAK BARGE",
+      "PRN": "72329968E"
+    },
+    {
+      "Seat No": "F190800371",
+      "Student Name": "SAINDANE VALLABH SUDHIR",
+      "Mother Name": "NISHA",
+      "PRN": "72329969C"
+    },
+    {
+      "Seat No": "F190800372",
+      "Student Name": "SAINDANE YUGANDHAR MAHENDRA",
+      "Mother Name": "SAINDANE YOGITA MAHENDRA",
+      "PRN": "72329970G"
+    },
+    {
+      "Seat No": "F190800373",
+      "Student Name": "SAKSHI ANKUSHRAO BHORE",
+      "Mother Name": "SANGITA ANKUSHRAO BHORE",
+      "PRN": "72211569F"
+    },
+    {
+      "Seat No": "F190800374",
+      "Student Name": "SAKSHI GOKUL BORSE",
+      "Mother Name": "SAVITA BORSE",
+      "PRN": "72255751F"
+    },
+    {
+      "Seat No": "F190800375",
+      "Student Name": "SAKSHI MANOJ JAGTAP",
+      "Mother Name": "SUNITA",
+      "PRN": "72329971E"
+    },
+    {
+      "Seat No": "F190800376",
+      "Student Name": "SALUNKE KUNAL PRAKASH",
+      "Mother Name": "JAYASHRI",
+      "PRN": "72255753B"
+    },
+    {
+      "Seat No": "F190800377",
+      "Student Name": "SALUNKHE PARTH VIKRAM",
+      "Mother Name": "SARIKA",
+      "PRN": "72329972C"
+    },
+    {
+      "Seat No": "F190800378",
+      "Student Name": "SAMRUDDHI ANAND TILEKAR",
+      "Mother Name": "VAISHALI ANAND TILEKAR",
+      "PRN": "72255755J"
+    },
+    {
+      "Seat No": "F190800379",
+      "Student Name": "SAMRUDDHI AVINASH PATIL",
+      "Mother Name": "RAJAS AVINASH PATIL",
+      "PRN": "72329973M"
+    },
+    {
+      "Seat No": "F190800380",
+      "Student Name": "SANKAPALE DHANANJAY RAVINDRA",
+      "Mother Name": "MANGAL SANKAPALE",
+      "PRN": "72329974K"
+    },
+    {
+      "Seat No": "F190800381",
+      "Student Name": "SAPKAL SHIVANI NITIN",
+      "Mother Name": "SAPKAL RUPALI NITIN",
+      "PRN": "72329975H"
+    },
+    {
+      "Seat No": "F190800382",
+      "Student Name": "SASTE KAIWALYA SANDEEP",
+      "Mother Name": "SUJATA SANDEEP SASTE",
+      "PRN": "72329976F"
+    },
+    {
+      "Seat No": "F190800383",
+      "Student Name": "SATDEVE ASTITVA RITESH",
+      "Mother Name": "PALLAVI SATDEVE",
+      "PRN": "72329977D"
+    },
+    {
+      "Seat No": "F190800384",
+      "Student Name": "SAWALE AMIT ASHOK",
+      "Mother Name": "JAYA",
+      "PRN": "72329978B"
+    },
+    {
+      "Seat No": "F190800385",
+      "Student Name": "SAWALE ANURAG VINOD",
+      "Mother Name": "VIDYA VINOD SAWALE",
+      "PRN": "72255757E"
+    },
+    {
+      "Seat No": "F190800386",
+      "Student Name": "SAWANT AMEYA YASHWANT",
+      "Mother Name": "YASHASHRI YASHWANT SAWANT",
+      "PRN": "72329979L"
+    },
+    {
+      "Seat No": "F190800387",
+      "Student Name": "SELUKAR NARSING HANMANT",
+      "Mother Name": "MANISHA",
+      "PRN": "72255761C"
+    },
+    {
+      "Seat No": "F190800388",
+      "Student Name": "SHAIKH RAHIM RAFIK",
+      "Mother Name": "SHAIKH SHIRIN RAFIK",
+      "PRN": "72211578E"
+    },
+    {
+      "Seat No": "F190800389",
+      "Student Name": "SHARVIL DNYANESHWAR MANE",
+      "Mother Name": "SHITAL",
+      "PRN": "72329980D"
+    },
+    {
+      "Seat No": "F190800390",
+      "Student Name": "SHELAKE ANJALI TANAJI",
+      "Mother Name": "SHELAKE RANJANA TANAJI",
+      "PRN": "72329981B"
+    },
+    {
+      "Seat No": "F190800391",
+      "Student Name": "SHELAR SIDDHESH SACHIN",
+      "Mother Name": "KALPANA SACHIN SHELAR",
+      "PRN": "72329982L"
+    },
+    {
+      "Seat No": "F190800392",
+      "Student Name": "SHELKE DIKSHA DATTATRAY",
+      "Mother Name": "SANJEEVANI",
+      "PRN": "72329983J"
+    },
+    {
+      "Seat No": "F190800393",
+      "Student Name": "SHELKE MADHAV SHRIRAM",
+      "Mother Name": "SHELKE SANGITA SHRIRAM",
+      "PRN": "72255767B"
+    },
+    {
+      "Seat No": "F190800394",
+      "Student Name": "SHELKE VISHAL SHIVAJI",
+      "Mother Name": "RATNABAI",
+      "PRN": "72329984G"
+    },
+    {
+      "Seat No": "F190800395",
+      "Student Name": "SHELWANE SUMIT GOVARDHAN",
+      "Mother Name": "NILIMA",
+      "PRN": "72255768L"
+    },
+    {
+      "Seat No": "F190800396",
+      "Student Name": "SHINDE PRANALI VINOD",
+      "Mother Name": "KAVITA",
+      "PRN": "72329985E"
+    },
+    {
+      "Seat No": "F190800397",
+      "Student Name": "SHINDE PRANAV RAHUL",
+      "Mother Name": "PRATIKSHA",
+      "PRN": "72329986C"
+    },
+    {
+      "Seat No": "F190800398",
+      "Student Name": "SHINDE RANVEER NANDKUMAR",
+      "Mother Name": "URMILA NANDKUMAR SHINDE",
+      "PRN": "72211581E"
+    },
+    {
+      "Seat No": "F190800399",
+      "Student Name": "SHINDE RUTUJA VASANT",
+      "Mother Name": "SHEVANTA",
+      "PRN": "72329987M"
+    },
+    {
+      "Seat No": "F190800400",
+      "Student Name": "SHINDE SANSKRUTI GORAKHNATH",
+      "Mother Name": "SHINDE MEENA GORAKHNAT H",
+      "PRN": "72329988K"
+    },
+    {
+      "Seat No": "F190800401",
+      "Student Name": "SHINDE SARTHAK VINAYAK",
+      "Mother Name": "SUNANDA VINAYAK SHINDE",
+      "PRN": "72329989H"
+    },
+    {
+      "Seat No": "F190800402",
+      "Student Name": "SHINDE SHRAVANI KIRAN",
+      "Mother Name": "USHA SHINDE",
+      "PRN": "72329990M"
+    },
+    {
+      "Seat No": "F190800403",
+      "Student Name": "SHINDE VAISHALI SUKHADEV",
+      "Mother Name": "LAXMI",
+      "PRN": "72329991K"
+    },
+    {
+      "Seat No": "F190800404",
+      "Student Name": "SHINDE VARSHA MININATH",
+      "Mother Name": "ANURADHA",
+      "PRN": "72329992H"
+    },
+    {
+      "Seat No": "F190800405",
+      "Student Name": "SHINDE YASHASHREE MAYUR",
+      "Mother Name": "MADHURI MAYUR SHINDE",
+      "PRN": "72329993F"
+    },
+    {
+      "Seat No": "F190800406",
+      "Student Name": "SHIVHARI PRABHAKAR BANSODE",
+      "Mother Name": "SUVARNA PRABHAKAR BANSODE",
+      "PRN": "72329994D"
+    },
+    {
+      "Seat No": "F190800407",
+      "Student Name": "SHRAVANI NAVANATH MATE",
+      "Mother Name": "SARIKA",
+      "PRN": "72255779F"
+    },
+    {
+      "Seat No": "F190800408",
+      "Student Name": "SHRAVANI SANDESH BEHERE",
+      "Mother Name": "SHITAL",
+      "PRN": "72329995B"
+    },
+    {
+      "Seat No": "F190800409",
+      "Student Name": "SHREYASH RAJKUMAR MESHRAM",
+      "Mother Name": "JAYA",
+      "PRN": "72255780K"
+    },
+    {
+      "Seat No": "F190800410",
+      "Student Name": "SHRUTI GHANASHAM HAKE",
+      "Mother Name": "SARIKA GHANASHAM HAKE",
+      "PRN": "72329996L"
+    },
+    {
+      "Seat No": "F190800411",
+      "Student Name": "SHUBHAM PURI",
+      "Mother Name": "ARUNA",
+      "PRN": "72329997J"
+    },
+    {
+      "Seat No": "F190800412",
+      "Student Name": "SINHA SAHIL SATISH",
+      "Mother Name": "PINKIDEVI",
+      "PRN": "72255783D"
+    },
+    {
+      "Seat No": "F190800413",
+      "Student Name": "SOLANKI OM SHIVDAS",
+      "Mother Name": "SANGITA",
+      "PRN": "72329998G"
+    },
+    {
+      "Seat No": "F190800414",
+      "Student Name": "SOMVANSHI AKANKSHA VENKAT",
+      "Mother Name": "JAYSHRI",
+      "PRN": "72255784B"
+    },
+    {
+      "Seat No": "F190800415",
+      "Student Name": "SOMWANSHI SHIRISHKUMAR RANGNATH",
+      "Mother Name": "RANI",
+      "PRN": "72329999E"
+    },
+    {
+      "Seat No": "F190800416",
+      "Student Name": "SONAWANE AJINKYA DATTATRAY",
+      "Mother Name": "SHITAL DATTATRAY SONAWANE",
+      "PRN": "72330000D"
+    },
+    {
+      "Seat No": "F190800417",
+      "Student Name": "SONAWANE BHUSHAN RAVINDRA",
+      "Mother Name": "PRATIBHA SONAWANE",
+      "PRN": "72330001B"
+    },
+    {
+      "Seat No": "F190800418",
+      "Student Name": "SRUJAL",
+      "Mother Name": "KAVITA",
+      "PRN": "72330002L"
+    },
+    {
+      "Seat No": "F190800419",
+      "Student Name": "SUBHEDAR OMKARSING PRAVEENSING",
+      "Mother Name": "PRATIMA",
+      "PRN": "72330003J"
+    },
+    {
+      "Seat No": "F190800420",
+      "Student Name": "SUL AUDUMBAR UTTAM",
+      "Mother Name": "KALPANA",
+      "PRN": "72255786J"
+    },
+    {
+      "Seat No": "F190800421",
+      "Student Name": "SUMIT CHAUDHARY",
+      "Mother Name": "SHANTI",
+      "PRN": "72330004G"
+    },
+    {
+      "Seat No": "F190800422",
+      "Student Name": "SUMIT VERMA",
+      "Mother Name": "SHALINI",
+      "PRN": "72330005E"
+    },
+    {
+      "Seat No": "F190800423",
+      "Student Name": "SURVE ANIKET DEVIDAS",
+      "Mother Name": "SARIKA",
+      "PRN": "72255788E"
+    },
+    {
+      "Seat No": "F190800424",
+      "Student Name": "SURYAWANSHI OMKAR NAMDEV",
+      "Mother Name": "INDUBAI NAMDEV SURYAWANS HI",
+      "PRN": "72330006C"
+    },
+    {
+      "Seat No": "F190800425",
+      "Student Name": "TAMADA SAGAR ISWARRAO",
+      "Mother Name": "VENKATAMM A",
+      "PRN": "72211597M"
+    },
+    {
+      "Seat No": "F190800426",
+      "Student Name": "TAMBADE NILESH KISANRAO",
+      "Mother Name": "MUKTABAI",
+      "PRN": "72330007M"
+    },
+    {
+      "Seat No": "F190800427",
+      "Student Name": "TAMBE OMKAR SHIVAJI",
+      "Mother Name": "BHARATI SHIVAJI TAMBE",
+      "PRN": "72211533E"
+    },
+    {
+      "Seat No": "F190800428",
+      "Student Name": "TANUJA BALIRAM SURYAWANSHI",
+      "Mother Name": "ANITA BALIRAM SURYAWANS HI",
+      "PRN": "72330008K"
+    },
+    {
+      "Seat No": "F190800429",
+      "Student Name": "TARADE VIGHANESH VIKAS",
+      "Mother Name": "NEETA",
+      "PRN": "72330009H"
+    },
+    {
+      "Seat No": "F190800430",
+      "Student Name": "TEJASLAXMAN JADHAV",
+      "Mother Name": "CHHAYA",
+      "PRN": "72330010M"
+    },
+    {
+      "Seat No": "F190800431",
+      "Student Name": "TEKALE LAXMAN SAMPAT",
+      "Mother Name": "ASHA",
+      "PRN": "72330011K"
+    },
+    {
+      "Seat No": "F190800432",
+      "Student Name": "TEKALE LAXMAN SAMPAT",
+      "Mother Name": "ASHA",
+      "PRN": "72330012H"
+    },
+    {
+      "Seat No": "F190800433",
+      "Student Name": "THITE SANIKA SHARAD",
+      "Mother Name": "THITE SUREKHA SHARAD",
+      "PRN": "72330013F"
+    },
+    {
+      "Seat No": "F190800434",
+      "Student Name": "THORAT PRANJALI VIJAY",
+      "Mother Name": "SADHANA",
+      "PRN": "72255792C"
+    },
+    {
+      "Seat No": "F190800435",
+      "Student Name": "THORAT PRASHANT NAVNATH",
+      "Mother Name": "DAMYANTI",
+      "PRN": "72255793M"
+    },
+    {
+      "Seat No": "F190800436",
+      "Student Name": "THORAT ROHIT ABHIMAN",
+      "Mother Name": "VANDANA",
+      "PRN": "72330014D"
+    },
+    {
+      "Seat No": "F190800437",
+      "Student Name": "THORAT YASHRAJ BABASAHEB",
+      "Mother Name": "ANITA",
+      "PRN": "72330015B"
+    },
+    {
+      "Seat No": "F190800438",
+      "Student Name": "THOTE ASHUTOS ANIL",
+      "Mother Name": "SWATI",
+      "PRN": "72330016L"
+    },
+    {
+      "Seat No": "F190800439",
+      "Student Name": "TOMPE HARSHADA PRAKASH",
+      "Mother Name": "SUNANDA",
+      "PRN": "72255796F"
+    },
+    {
+      "Seat No": "F190800440",
+      "Student Name": "TUPE JAYESH DADA",
+      "Mother Name": "SAVITA",
+      "PRN": "72330017J"
+    },
+    {
+      "Seat No": "F190800441",
+      "Student Name": "UGALE SHUBHAM DATTATRAY",
+      "Mother Name": "ANITA",
+      "PRN": "72330018G"
+    },
+    {
+      "Seat No": "F190800442",
+      "Student Name": "VAIRAGAR OMKAR KRUSHNA",
+      "Mother Name": "RADHA",
+      "PRN": "72330019E"
+    },
+    {
+      "Seat No": "F190800443",
+      "Student Name": "VAISHANVI SURYAKANT KADAM",
+      "Mother Name": "SONALI SURYAKANT KADAM",
+      "PRN": "72330020J"
+    },
+    {
+      "Seat No": "F190800444",
+      "Student Name": "VAISHNAVI BALU KATE",
+      "Mother Name": "RUPALI KATE",
+      "PRN": "72330021G"
+    },
+    {
+      "Seat No": "F190800445",
+      "Student Name": "VIDHATE HARSHAL VILAS",
+      "Mother Name": "VAISHALI",
+      "PRN": "72330022E"
+    },
+    {
+      "Seat No": "F190800446",
+      "Student Name": "VISHAL GHADAI",
+      "Mother Name": "BINODINI GHADAI",
+      "PRN": "72330023C"
+    },
+    {
+      "Seat No": "F190800447",
+      "Student Name": "VIVEK SUBHASH TILEKAR",
+      "Mother Name": "ROHINI",
+      "PRN": "72255800H"
+    },
+    {
+      "Seat No": "F190800448",
+      "Student Name": "VYAVHARE KAJAL SOMNATH",
+      "Mother Name": "SAVITA",
+      "PRN": "72255801F"
+    },
+    {
+      "Seat No": "F190800449",
+      "Student Name": "WABLE ARPITA ARUN",
+      "Mother Name": "CHHAYA",
+      "PRN": "72255802D"
+    },
+    {
+      "Seat No": "F190800450",
+      "Student Name": "WADHEKAR NIKHIL GANPATRAO",
+      "Mother Name": "MINAKSHI",
+      "PRN": "72255803B"
+    },
+    {
+      "Seat No": "F190800451",
+      "Student Name": "WADJE AKSHADA PRAVIN",
+      "Mother Name": "SAVITA",
+      "PRN": "72330024M"
+    },
+    {
+      "Seat No": "F190800452",
+      "Student Name": "WADJE SAKSHI VAIBHAV",
+      "Mother Name": "SHOBHA",
+      "PRN": "72330025K"
+    },
+    {
+      "Seat No": "F190800453",
+      "Student Name": "WAGH RIYA MHASKU",
+      "Mother Name": "SUSHMA",
+      "PRN": "72330026H"
+    },
+    {
+      "Seat No": "F190800454",
+      "Student Name": "WAGHMARE HARSHADA VITTHAL",
+      "Mother Name": "CHHAYA",
+      "PRN": "72330027F"
+    },
+    {
+      "Seat No": "F190800455",
+      "Student Name": "WAGHMARE SANDESH SANJAY",
+      "Mother Name": "RANJANA",
+      "PRN": "72330028D"
+    },
+    {
+      "Seat No": "F190800456",
+      "Student Name": "WAGHMARE SANTOSH RANJIT",
+      "Mother Name": "VIMAL",
+      "PRN": "72255805J"
+    },
+    {
+      "Seat No": "F190800457",
+      "Student Name": "WAGHULE NIRANJAN BALSAHEB",
+      "Mother Name": "WAGHULE VAISHALI BALASAHEB",
+      "PRN": "72255806G"
+    },
+    {
+      "Seat No": "F190800458",
+      "Student Name": "WALAMPALLE OMPRAKASH DNYANOBA",
+      "Mother Name": "SONABAI",
+      "PRN": "72330029B"
+    },
+    {
+      "Seat No": "F190800459",
+      "Student Name": "WALUNJ SHREYA RAVINDRA",
+      "Mother Name": "SAVITA",
+      "PRN": "72330030F"
+    },
+    {
+      "Seat No": "F190800460",
+      "Student Name": "WANKHEDE MAHESH MADHUKAR",
+      "Mother Name": "KAVITA MADHUKAR WANKHEDE",
+      "PRN": "72330031D"
+    },
+    {
+      "Seat No": "F190800461",
+      "Student Name": "YADAV SANIKA MANOHAR",
+      "Mother Name": "SWATI",
+      "PRN": "72330032B"
+    },
+    {
+      "Seat No": "F190800462",
+      "Student Name": "YADAV SANIKA RAMESH",
+      "Mother Name": "YADAV MANISHA RAMESH",
+      "PRN": "72330033L"
+    },
+    {
+      "Seat No": "F190800463",
+      "Student Name": "YADAV VISHAL BHAGWAN",
+      "Mother Name": "VANDNA",
+      "PRN": "72330034J"
+    },
+    {
+      "Seat No": "F190800464",
+      "Student Name": "YENGUL VEDANT VIVEK",
+      "Mother Name": "YENGUL VISHAKHA VIVEK",
+      "PRN": "72330035G"
+    },
+    {
+      "Seat No": "F190800465",
+      "Student Name": "YEREKAR SHRADDHA SANTOSH",
+      "Mother Name": "VIDYASAGAR SANTOSH YEREKAR",
+      "PRN": "72330036E"
+    },
+    {
+      "Seat No": "F190800466",
+      "Student Name": "YESEKAR ADITYA GANESH",
+      "Mother Name": "JYOTI",
+      "PRN": "72330037C"
+    },
+    {
+      "Seat No": "F190800467",
+      "Student Name": "YESHI ADITYA HEMANT",
+      "Mother Name": "YESHI SHRADDHA HEMANT",
+      "PRN": "72330038M"
+    },
+    {
+      "Seat No": "F190800468",
+      "Student Name": "YEWALE RAHUL SANTOSH",
+      "Mother Name": "SHAILA",
+      "PRN": "72330039K"
+    },
+    {
+      "Seat No": "F190800469",
+      "Student Name": "ZIRANGE LIYUTSA LALKAR",
+      "Mother Name": "SUNITA",
+      "PRN": " 72330040C"
+    }
+  ]
+}
