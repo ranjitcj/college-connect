@@ -2,8 +2,10 @@ import {
 	PASSWORD_RESET_REQUEST_TEMPLATE,
 	VERIFICATION_EMAIL_TEMPLATE,
 } from "./emailTemplates.js";
-import { mailtrapClient, sender } from "./mailtrap.config.js";
-
+// import { mailtrapClient } from "./mailtrap.config.js";
+// const nodemailer = require('nodemailer');
+import nodemailer from 'nodemailer'
+// const Mailgen = require('mailgen');
 export const sendVerificationEmail = async (email, verificationToken) => {
 	const recipient = [{ email }];
 
